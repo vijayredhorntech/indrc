@@ -26,6 +26,7 @@
                             <source src="{{asset('assets/front/videos/Winter@iiserm.mp4')}}" type="video/ogg">
                             Your browser does not support the video tag.
                         </video>
+                    <span>Video Credit : Jaseem Shan</span>
                 </div>
                 <div class="content-column col-lg-8 col-md-7 col-sm-12">
                     <div class="inner-column">

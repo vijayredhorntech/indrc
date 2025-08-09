@@ -65,7 +65,7 @@
 
                 <div class="copyright-text">
 
-                    <p>Copyright © 2025 All Rights Reserved by <a href="{{config('app.developer_link')}}">{{config('app.developed_by')}}</a></p>
+                    <p>Copyright © 2025 All Rights Reserved by <a href="{{config('app.developer_link')}}" style="white-space: nowrap">{{config('app.developed_by')}}</a></p>
 
                 </div>
 
