@@ -33,13 +33,49 @@ class PagesController extends Controller
     {
         return view('frontend.aboutIiser');
     }
+    public function whether()
+    {
+        return view('frontend.whether');
+    }
+    public function howToReach()
+    {
+        return view('frontend.howToReach');
+    }
+
+    public function localAttractions()
+    {
+        return view('frontend.localAttractions');
+    }
+
+    public function gallery()
+    {
+        return view('frontend.gallery');
+    }
 
     public function program()
     {
-
-
         return view('frontend.program');
+    }
+    public function speakers()
+    {
+        return view('frontend.speakers');
+    }
+    public function posterPresentation()
+    {
+        return view('frontend.posterPresentation');
+    }
+    public function accommodation()
+    {
+        return view('frontend.accommodation');
+    }
 
+    public function awards()
+    {
+        return view('frontend.awards');
+    }
+    public function registration()
+    {
+        return view('frontend.registration');
     }
 
     public function page($id)
@@ -76,6 +112,10 @@ class PagesController extends Controller
     public function contact()
     {
         return view('frontend.contact');
+    }
+    public function helpDesk()
+    {
+        return view('frontend.helpDesk');
     }
 
     public function news()

@@ -52,15 +52,31 @@
                         <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
                             <ul class="navigation clearfix">
                                 <li><a href="{{route('index')}}">Home</a></li>
-                                <li><a href="{{route('about_iiser')}}" style="white-space: nowrap">About IISER</a></li>
+                                <li class="dropdown"><a href="#">About</a>
+                                    <ul>
+                                        <li><a href="{{route('about_iiser')}}">About IISER</a></li>
+                                        <li><a href="{{route('weather')}}">Weather </a></li>
+                                        <li><a href="{{route('how_to_reach')}}">How to reach</a></li>
+                                        <li><a href="{{route('local_attractions')}}">Local Attractions</a></li>
+                                        <li><a href="{{route('gallery')}}">Gallery</a></li>
+                                    </ul>
+                                </li>
 
+{{--                                <li class="dropdown"><a href="#">Registration</a>--}}
+{{--                                    <ul>--}}
+{{--                                        <li><a href="#">Registration Guideline</a></li>--}}
+{{--                                        <li><a href="#">Registration</a></li>--}}
+{{--                                    </ul>--}}
+{{--                                </li>--}}
+                                <li><a href="{{route('registration')}}">Registration</a></li>
+                                <li><a href="{{route('awards')}}">Awards</a></li>
 
 
                                 <li class="dropdown"><a href="#">Program</a>
                                     <ul>
                                         <li><a href="{{route('program')}}">Daily Program</a></li>
-                                        <li><a href="{{route('program')}}">Invited Speaker</a></li>
-                                        <li><a href="{{route('program')}}">Social Program</a></li>
+                                        <li><a href="{{route('speakers')}}">Invited Speaker</a></li>
+                                        <li><a href="{{route('poster_presentation')}}">Poster Presentation</a></li>
 {{--                                        <li class="dropdown"><a href="about.html#">Header Styles</a>--}}
 {{--                                            <ul>--}}
 {{--                                                <li><a href="index.html">Header Style 01</a></li>--}}
@@ -70,27 +86,14 @@
 {{--                                        </li>--}}
                                     </ul>
                                 </li>
-                                <li class="dropdown"><a href="#">Submission</a>
+                                <li><a href="{{route('accommodation')}}">Accommodation</a></li>
+                                <li class="dropdown"><a href="#">Contact</a>
                                     <ul>
-                                        <li><a href="#">Submission Guideline</a></li>
-                                        <li><a href="#">Submission</a></li>
+                                        <li><a href="{{route('contact-us')}}">Contact Us</a></li>
+                                        <li><a href="{{route('help-desk')}}">Help Desk</a></li>
                                     </ul>
                                 </li>
-                                <li class="dropdown"><a href="#">Registration</a>
-                                    <ul>
-                                        <li><a href="#">Registration Guideline</a></li>
-                                        <li><a href="#">Registration</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">Exhibition</a>
-                                    <ul>
-                                        <li><a href="#">Exhibition Information</a></li>
-                                        <li><a href="#">Sponsorship Information</a></li>
-                                        <li><a href="#">Sponsors</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">Practical </a></li>
-                                <li><a href="#"> Links</a></li>
+
                             </ul>
                         </div>
                     </nav>

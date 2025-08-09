@@ -187,9 +187,19 @@ Route::middleware(['auth'])->prefix('admin')->group(function () {
 Route::middleware('globalMenu')->group(function(){
     Route::get('/', [PagesController::class, 'index'])->name('index');
     Route::get('/about-iiser', [PagesController::class, 'aboutIiser'])->name('about_iiser');
+    Route::get('/weather', [PagesController::class, 'whether'])->name('weather');
+    Route::get('/how-to-reach', [PagesController::class, 'howToReach'])->name('how_to_reach');
+    Route::get('/local-attractions', [PagesController::class, 'localAttractions'])->name('local_attractions');
+    Route::get('/gallery', [PagesController::class, 'gallery'])->name('gallery');
     Route::get('/program', [PagesController::class, 'program'])->name('program');
+    Route::get('/speakers', [PagesController::class, 'speakers'])->name('speakers');
+    Route::get('/poster-presentation', [PagesController::class, 'posterPresentation'])->name('poster_presentation');
+    Route::get('/accommodation', [PagesController::class, 'accommodation'])->name('accommodation');
+    Route::get('/awards', [PagesController::class, 'awards'])->name('awards');
+    Route::get('/registration', [PagesController::class, 'registration'])->name('registration');
     Route::get('/page/{id}', [PagesController::class, 'page'])->name('page');
     Route::get('/contact', [PagesController::class, 'contact'])->name('contact-us');
+    Route::get('/help-desk', [PagesController::class, 'helpDesk'])->name('help-desk');
     Route::get('/executive_board', [PagesController::class, 'executive_board'])->name('executive_board');
     Route::get('/general_body', [PagesController::class, 'general_body'])->name('general_body');
     Route::get('/announcements', [PagesController::class, 'announcements'])->name('announcements');

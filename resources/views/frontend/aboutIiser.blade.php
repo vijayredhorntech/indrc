@@ -80,28 +80,6 @@
                 </div>
             </div>
 
-            <div class="row" style="margin-top: 50px">
-
-                <div class="content-column col-lg-12 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="sec-title">
-                            <span class="sub-title">Whether</span>
-                            <h2>About Whether</h2>
-                            <span class="divider"></span>
-                            <div class="text">The Indian Institute of Science Education and Research Mohali (IISER Mohali), established in 2007 by the Ministry of Education, Government of India, is a premier institution dedicated to high-quality science education and advanced research. Located on a 125-acre fully residential campus in Punjab, the institute offers integrated BS-MS, PhD, and postgraduate programs that combine strong academic foundations with hands-on research training.
-                            </div>
-                            <div class="text">IISER Mohali aims to cultivate a new generation of scientists who are intellectually curious, research-oriented, and capable of contributing to emerging areas of basic sciences. The institute fosters a vibrant academic culture that encourages interdisciplinary learning and collaboration across diverse scientific fields such as physics, chemistry, biology, mathematics, and earth sciences.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-
-
-
-
         </div>
     </section>
 @endsection
