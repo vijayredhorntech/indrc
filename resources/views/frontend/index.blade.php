@@ -6,7 +6,7 @@
 
 
 
-    <div class="swiffy-slider">
+    <div class="swiffy-slider slider-nav-autoplay slider-nav-animation slider-nav-animation-fadein">
         <ul class="slider-container" style="width: 100%">
             <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner3.jpg')}}" class="MainBannerImages"></li>
             <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner4.jpg')}}" class="MainBannerImages"></li>
