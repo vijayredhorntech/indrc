@@ -14,6 +14,12 @@
             <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner6.jpg')}}" class="MainBannerImages"></li>
             <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner7.jpg')}}" class="MainBannerImages"></li>
             <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner8.jpg')}}" class="MainBannerImages"></li>
+            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner9.jpg')}}" class="MainBannerImages"></li>
+            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner10.jpg')}}" class="MainBannerImages"></li>
+            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner11.jpg')}}" class="MainBannerImages"></li>
+            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner12.jpg')}}" class="MainBannerImages"></li>
+            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner13.jpg')}}" class="MainBannerImages"></li>
+            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner14.jpg')}}" class="MainBannerImages"></li>
         </ul>
 
         <button type="button" class="slider-nav"></button>
@@ -310,7 +316,7 @@
 
 
 
-            <div class="sec-bottom-text"><div class="text"> <a href="javascript:void(0)">Click here</a> to know more</div></div>
+{{--            <div class="sec-bottom-text"><div class="text"> <a href="javascript:void(0)">Click here</a> to know more</div></div>--}}
 
         </div>
 
