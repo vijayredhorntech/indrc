@@ -6,8 +6,8 @@
             <div class="inner-container">
                 <div class="top-left">
                     <ul class="contact-list-two">
-                        <li><strong>Phone</strong> {{config('app.website_phone')}} </li>
-                        <li><strong>Email</strong> {{config('app.website_email')}} </li>
+{{--                        <li><strong>Phone</strong> {{config('app.website_phone')}} </li>--}}
+{{--                        <li><strong>Email</strong> {{config('app.website_email')}} </li>--}}
                     </ul>
                 </div>
 
@@ -19,9 +19,9 @@
 {{--                        @foreach($socials as $social)--}}
 {{--                            <li><a href="{{$social->link}}"><span class="fab fa-{{$social->icon}}"></span></a></li>--}}
 {{--                        @endforeach--}}
-                        <li><a href="https://x.com/IiserMohali?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"><span class="fab fa-twitter"></span></a></li>
-                        <li><a href="https://www.youtube.com/c/IISERMohaliOfficialChannel" target="_blank"><span class="fab fa-youtube"></span></a></li>
-                        <li><a href="https://www.facebook.com/iisermohaliofficialpage" target="_blank"><span class="fab fa-facebook"></span></a></li>
+{{--                        <li><a href="https://x.com/IiserMohali?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"><span class="fab fa-twitter"></span></a></li>--}}
+{{--                        <li><a href="https://www.youtube.com/c/IISERMohaliOfficialChannel" target="_blank"><span class="fab fa-youtube"></span></a></li>--}}
+{{--                        <li><a href="https://www.facebook.com/iisermohaliofficialpage" target="_blank"><span class="fab fa-facebook"></span></a></li>--}}
 
                     </ul>
                 </div>
@@ -76,7 +76,7 @@
                                     <ul>
                                         <li><a href="{{route('program')}}">Daily Program</a></li>
                                         <li><a href="{{route('speakers')}}">Invited Speaker</a></li>
-                                        <li><a href="{{route('poster_presentation')}}">Poster Presentation</a></li>
+{{--                                        <li><a href="{{route('poster_presentation')}}">Poster Presentation</a></li>--}}
 {{--                                        <li class="dropdown"><a href="about.html#">Header Styles</a>--}}
 {{--                                            <ul>--}}
 {{--                                                <li><a href="index.html">Header Style 01</a></li>--}}
@@ -87,6 +87,8 @@
                                     </ul>
                                 </li>
                                 <li><a href="{{route('accommodation')}}">Accommodation</a></li>
+                                <li><a href="{{route('code-of-conduct')}}">Code of Conduct</a></li>
+                                <li><a href="{{route('sponsorship')}}">Sponsorship</a></li>
                                 <li class="dropdown"><a href="#">Contact</a>
                                     <ul>
                                         <li><a href="{{route('contact-us')}}">Contact Us</a></li>
@@ -99,12 +101,12 @@
                     </nav>
 
                     <!-- Main Menu End-->
-                    <div class="outer-box clearfix">
-                        <!-- Quote Btn -->
-                        <div class="btn-box">
-                            <a href="#" class="theme-btn btn-style-one"><span class="btn-title"><i class="flaticon-chair"></i> Book Ticket</span></a>
-                        </div>
-                    </div>
+{{--                    <div class="outer-box clearfix">--}}
+{{--                        <!-- Quote Btn -->--}}
+{{--                        <div class="btn-box">--}}
+{{--                            <a href="#" class="theme-btn btn-style-one"><span class="btn-title"><i class="flaticon-chair"></i> Book Ticket</span></a>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                 </div>
             </div>
         </div>
@@ -152,20 +154,20 @@
 
             <ul class="navigation clearfix"><!--Keep This Empty / Menu will come through Javascript--></ul>
 
-            <ul class="contact-list-one">
-                <li><i class="flaticon-location"></i> {{config('app.website_address')}}<strong>Address</strong></li>
-                <li><i class="flaticon-alarm-clock-1"></i>{{config('app.website_phone')}} <strong>Phone</strong></li>
-                <li><i class="flaticon-email-1"></i> <a href="mailto:{{config('app.website_email')}}">{{config('app.website_email')}}</a> <strong>Mail to us</strong></li>
-            </ul>
+{{--            <ul class="contact-list-one">--}}
+{{--                <li><i class="flaticon-location"></i> {{config('app.website_address')}}<strong>Address</strong></li>--}}
+{{--                <li><i class="flaticon-alarm-clock-1"></i>{{config('app.website_phone')}} <strong>Phone</strong></li>--}}
+{{--                <li><i class="flaticon-email-1"></i> <a href="mailto:{{config('app.website_email')}}">{{config('app.website_email')}}</a> <strong>Mail to us</strong></li>--}}
+{{--            </ul>--}}
 
-            <ul class="social-links">
-                @php
-                    $socials = App\Models\SocialLink::all();
-                @endphp
-                @foreach($socials as $social)
-                    <li><a href="{{$social->link}}"><span class="fab fa-{{$social->icon}}"></span></a></li>
-                @endforeach
-            </ul>
+{{--            <ul class="social-links">--}}
+{{--                @php--}}
+{{--                    $socials = App\Models\SocialLink::all();--}}
+{{--                @endphp--}}
+{{--                @foreach($socials as $social)--}}
+{{--                    <li><a href="{{$social->link}}"><span class="fab fa-{{$social->icon}}"></span></a></li>--}}
+{{--                @endforeach--}}
+{{--            </ul>--}}
         </nav>
     </div><!-- End Mobile Menu -->
 </header>

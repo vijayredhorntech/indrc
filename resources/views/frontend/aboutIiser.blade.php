@@ -32,10 +32,17 @@
                             <span class="sub-title">About</span>
                             <h2>About IISER Mohali</h2>
                             <span class="divider"></span>
-                            <div class="text">The Indian Institute of Science Education and Research Mohali (IISER Mohali), established in 2007 by the Ministry of Education, Government of India, is a premier institution dedicated to high-quality science education and advanced research. Located on a 125-acre fully residential campus in Punjab, the institute offers integrated BS-MS, PhD, and postgraduate programs that combine strong academic foundations with hands-on research training.
-                            </div>
-                            <div class="text">IISER Mohali aims to cultivate a new generation of scientists who are intellectually curious, research-oriented, and capable of contributing to emerging areas of basic sciences. The institute fosters a vibrant academic culture that encourages interdisciplinary learning and collaboration across diverse scientific fields such as physics, chemistry, biology, mathematics, and earth sciences.
-                            </div>
+                            <div class="text" style="text-align: justify">The Indian Institute of Science Education and Research Mohali (IISER Mohali), which was
+                                established in 2007 by the Ministry of Education, Government of India, stands as a premier
+                                Institution that excels in both Science, Education and Research. Strategically located on a 125-
+                                acre residential campus in Punjab, IISER Mohali offers a robust educational framework through
+                                its integrated undergraduate (BS-MS), postgraduate, and doctoral (PhD) programs. These
+                                programs combine rigorous academic training with invaluable hands-on research experience.</div>
+                            <div class="text" style="text-align: justify">IISER Mohali is committed to developing the next generation of scientists who are fueled by
+                                curiosity, inspired by innovation, and devoted to expanding knowledge in emerging areas of
+                                basic sciences. The Institute promotes an intellectually stimulating and inclusive atmosphere
+                                that encourages interdisciplinary collaborations across various fields, including physics,
+                                chemistry, biology, mathematics, and earth and environmental sciences.s</div>
                         </div>
                     </div>
                 </div>
@@ -74,8 +81,13 @@
                 <!-- Info Box -->
                 <div class="info-box-one">
                     <div class="inner-box">
-                        <p>With state-of-the-art laboratories, cutting-edge research facilities, and a dynamic faculty engaged in nationally and internationally recognized research, IISER Mohali provides an ideal environment for innovation and discovery. The institute values academic freedom and promotes a broader understanding of the societal relevance of science. As it continues to grow, IISER Mohali is steadily establishing itself as a leading centre for scientific education, research, and interdisciplinary excellence at both the national and global level
-                        </p>
+                        <p> style="text-align: justify" Equipped with state-of-the-art laboratories and advanced research facilities, alongside highly
+                            qualified faculties, IISER Mohali is at the forefront of high-impact research focused on
+                            addressing both fundamental scientific questions and pressing real-world challenges. The
+                            Institute champions academic freedom, critical thinking, and societal relevance, effectively
+                            preparing its students to become adept researchers and conscientious global citizens.
+                            As a dynamic hub of scientific excellence, IISER Mohali is shaping the future of science
+                            education and innovation both in India and on the global stage.</p>
                     </div>
                 </div>
             </div>

@@ -8,7 +8,7 @@
 
             <div class="text-center">
 
-                <div class="footer-logo"><a href="{{route('index')}}"><img src="{{config('app.logo')}}" style="height: 150px" alt=""></a></div>
+                <div class="footer-logo"><a href="{{route('index')}}"><img src="{{config('app.logo')}}" style="height: 200px" alt=""></a></div>
 
                 <div class="text">The Indian Institute of Science Education and Research Mohali (IISER Mohali), established in 2007 by the Ministry of Education, Government of India, is a leading institution committed to excellence in science education and research.</div>
 

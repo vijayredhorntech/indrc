@@ -188,6 +188,8 @@ Route::middleware('globalMenu')->group(function(){
     Route::get('/', [PagesController::class, 'index'])->name('index');
     Route::get('/about-iiser', [PagesController::class, 'aboutIiser'])->name('about_iiser');
     Route::get('/weather', [PagesController::class, 'whether'])->name('weather');
+    Route::get('/sponsorship', [PagesController::class, 'sponsorship'])->name('sponsorship');
+    Route::get('/code-of-conduct', [PagesController::class, 'codeOfConduct'])->name('code-of-conduct');
     Route::get('/how-to-reach', [PagesController::class, 'howToReach'])->name('how_to_reach');
     Route::get('/local-attractions', [PagesController::class, 'localAttractions'])->name('local_attractions');
     Route::get('/gallery', [PagesController::class, 'gallery'])->name('gallery');

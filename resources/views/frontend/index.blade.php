@@ -8,22 +8,11 @@
 
     <div class="swiffy-slider slider-nav-autoplay slider-nav-animation slider-nav-animation-fadein">
         <ul class="slider-container" style="width: 100%">
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner3.jpg')}}" class="MainBannerImages"></li>
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner4.jpg')}}" class="MainBannerImages"></li>
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner5.jpg')}}" class="MainBannerImages"></li>
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner6.jpg')}}" class="MainBannerImages"></li>
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner7.jpg')}}" class="MainBannerImages"></li>
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner8.jpg')}}" class="MainBannerImages"></li>
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner9.jpg')}}" class="MainBannerImages"></li>
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner10.jpg')}}" class="MainBannerImages"></li>
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner11.jpg')}}" class="MainBannerImages"></li>
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner12.jpg')}}" class="MainBannerImages"></li>
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner13.jpg')}}" class="MainBannerImages"></li>
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/banner14.jpg')}}" class="MainBannerImages"></li>
+            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/main-banner.jpg')}}" class="MainBannerImages"></li>
         </ul>
 
-        <button type="button" class="slider-nav"></button>
-        <button type="button" class="slider-nav slider-nav-next"></button>
+{{--        <button type="button" class="slider-nav"></button>--}}
+{{--        <button type="button" class="slider-nav slider-nav-next"></button>--}}
     </div>
 
     <!-- About Section -->
@@ -32,9 +21,6 @@
         <div class="auto-container">
 
             <div class="row">
-
-                <!-- Image Column -->
-
                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
                     <div class="about-image-wrapper">
                         <figure class="image-3 wow zoomIn" data-wow-delay="900ms"><img src="{{asset('assets/front/images/home/1.png')}}" alt=""/></figure>
@@ -43,37 +29,39 @@
                         <a href="#" class="lightbox-image play-btn wow zoomIn" data-wow-delay="1200ms"><span class="icon fa fa-play"></span></a>
                     </div>
                 </div>
-
-
-
-                <!-- Content Column -->
-
                 <div class="content-column col-lg-6 col-md-12 col-sm-12">
-
                     <div class="inner-column">
-
                         <div class="sec-title">
-
-                            <span class="sub-title">“Knowledge shared is knowledge multiplied”</span>
-
+                            <span class="sub-title">“Knowledge shared is knowledge multiplied.”</span>
                             <h2>About the Conference</h2>
-
                             <span class="divider"></span>
-
                         </div>
-
-                        <p>The Indian Institute of Science Education and Research (IISER) Mohali is thrilled to announce the 7th edition of the Indian Drosophila Research Conference (InDRC 2025), to be held from 11–13 December, 2025. This conference aims to bring together the vibrant Indian Drosophila research community to share insights, spark fresh ideas, and foster meaningful collaborations. Scientific sessions will span a wide range of themes such as Developmental Biology, Ecology and Evolution, Cell Biology and more.
-                            Across three immersive days, the conference will host invited talks from prominent voices in the Indian and international Drosophila research community. Complementing these will be oral and poster presentations by emerging scholars. Poster sessions will serve as vibrant hubs for exchanging ideas and showcasing groundbreaking research across diverse disciplines.
-
-                        </p>
-
-
-                        <p>These three days promise to be a celebration of science and community, an exciting chance to reconnect with colleagues and friends from across the country. The crisp winter weather of Punjab will add a special charm to the meeting, offering a memorable backdrop for scientific exchange and a sense of togetherness.
-                        To further enrich the experience, a cultural evening will be organized to showcase the vibrant spirit and colorful traditions of Punjab—through music, dance, and local flavors. This will offer a delightful opportunity to unwind and experience the cultural heartbeat of the region. The organizing team is working enthusiastically to ensure a warm and enriching experience for all attendees. We look forward to welcoming you to Mohali this December!
-
-                        </p>
+                        <p style="text-align: justify">The Indian Institute of Science Education and Research (IISER) Mohali is excited to
+                            announce the 7th edition of the Indian Drosophila Research Conference (InDRC
+                            2025), set to take place from December 11 to 13, 2025. This conference is a crucial
+                            and unmissable event for the Indian Drosophila Research Community, providing an
+                            unparalleled opportunity to share knowledge, foster innovation, and build essential
+                            collaborations.</p>
+                        <p style="text-align: justify">Participants will delve into a wide array of scientific themes, such as Genetics,
+                            Neurobiology, Developmental Biology, Ecology and Evolution, and Cell Biology and
+                            Immunity. Over the course of three dynamic days, attendees will hear from top
+                            experts within the Indian and International Drosophila Research communities. Young
+                            scholars will showcase their talent through oral and poster presentations, making these
+                            sessions vital for exchanging innovative ideas and highlighting exceptional research
+                            across various disciplines.</p>
                     </div>
-
+                </div>
+                <div class="content-column col-lg-12 col-md-12 col-sm-12">
+                    <p style="text-align: justify">This event is not just a conference; it is a celebration of scientific progress and a
+                        chance to solidify community bonds. Seize this opportunity to reconnect with
+                        colleagues and forge new professional relationships. The refreshing winter weather in
+                        Punjab will enhance your experience, creating an ideal backdrop for meaningful
+                        scientific dialogue and collaboration.</p>
+                    <p style="text-align: justify">Additionally, a vibrant cultural evening will celebrate Punjab&#39;s rich heritage, featuring
+                        local music, dance, and cuisine. This will be a perfect moment to relax and immerse
+                        yourself in the region's cultural nuances. Our committed organizing team guarantees a
+                        welcoming and enriching experience for every attendee.</p>
+                    <p style="text-align: justify">We eagerly anticipate your presence in Mohali this December!</p>
                 </div>
 
             </div>

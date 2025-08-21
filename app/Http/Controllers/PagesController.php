@@ -37,6 +37,14 @@ class PagesController extends Controller
     {
         return view('frontend.whether');
     }
+    public function sponsorship()
+    {
+        return view('frontend.sponsorship');
+    }
+    public function codeOfConduct()
+    {
+        return view('frontend.codeOfConduct');
+    }
     public function howToReach()
     {
         return view('frontend.howToReach');
