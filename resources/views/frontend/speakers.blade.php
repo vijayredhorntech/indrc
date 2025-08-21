@@ -37,7 +37,7 @@
                             <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/girish.png')}}" alt=""></a></figure>
                         </div>
                         <div class="info-box">
-                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Girish Ratanaparkhi</a></h4>
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Girish Ratanaparkhi</a></h4>
                             <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Gene regulation, innate immunity, embryonic development</p>
                             <p class="designation" style="text-align: center">IISER Pune</p>
                         </div>
@@ -158,7 +158,7 @@
                         </div>
                         <div class="info-box">
                             <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Erika Bach</a></h4>
-                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Department of Biochemistry and Molecular Pharmacology</p>
+                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Cancer, Metabolism and Stem Cell Biology</p>
                             <p class="designation" style="text-align: center">NYU Langone Health</p>
                         </div>
                     </div>
@@ -169,7 +169,7 @@
                             <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/sonal.png')}}" alt=""></a></figure>
                         </div>
                         <div class="info-box">
-                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Sonal N Jaiswal</a></h4>
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Sonal N Jaiswal</a></h4>
                             <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Neurobiology</p>
                             <p class="designation" style="text-align: center">CCMB, Hyderabad</p>
                         </div>

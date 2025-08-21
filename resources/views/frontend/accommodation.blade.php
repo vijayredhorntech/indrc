@@ -16,20 +16,35 @@
         </div>
     </section>
     <!--End Page Title-->
-    <section class="map-section" style="padding-top: 50px">
+    <section class="gallery-section style-two" style="padding-top: 50px; padding-bottom: 0px">
         <div class="auto-container">
-            <div class="row clearfix">
+            <div class="row">
+                <!-- Gallery Block -->
+                <div class="gallery-block col-lg-6 col-md-6 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image" >
+                            <img src="{{asset('assets/front/images/acommodations/1.jpg')}}" alt="" style="height: 500px">
+                        </figure>
 
-                <!-- Form Column -->
-                <div class="map-column col-lg-12 col-md-12 col-sm-12">
-                    <!--Map Outer-->
-                    <div class="map-outer" style="position: relative">
-                       
-                               <img src="{{asset('assets/front/images/background/comming-soon.png')}}" alt="" style="width: 100%; height: 100%">
                     </div>
                 </div>
+                <div class="gallery-block col-lg-6 col-md-6 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="{{asset('assets/front/images/acommodations/2.jpeg')}}" alt="" style="height: 500px"></figure>
+                        {{--                        <div class="overlay-box">--}}
+                        {{--                            <div class="icon"><img src="images/icons/logo.png" alt=""></div>--}}
+                        {{--                            <h3><a href="schedule-detail.html">Conference Hall</a></h3>--}}
+                        {{--                            <span class="text">Event # 15</span>--}}
+                        {{--                        </div>--}}
+                    </div>
+                </div>
+
+
+
             </div>
+
         </div>
     </section>
+
 
 @endsection

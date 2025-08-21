@@ -31,7 +31,7 @@
 
 
                             <h3 style="margin-top: 20px">By Air</h3>
-                            <div class="text" style="margin-top: 10px">The nearest airport is Chandigarh International Airport (IXC), approximately 20 km (30-40 minutes) away from the campus.</div>
+                            <div class="text" style="margin-top: 10px">The nearest airport is Chandigarh International Airport (IXC), approximately 09 km (15-20 minutes) away from the campus.</div>
                             <div class="text" style="margin-top: 5px"><strong>From the Airport:</strong></div>
                             <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>Taxi/Cab:</strong> Prepaid taxis and app-based cabs (Uber/Ola) are available.</div>
                             <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>Bus:</strong> CTU buses run frequently towards Mohali/Sector 70.</div>
@@ -68,6 +68,10 @@
                             <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>Cab Services: </strong> Uber, Ola, and local taxis operate in Mohali.</div>
                             <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>Public Buses: </strong>  Punjab & Chandigarh Transport buses stop near Knowledge City.</div>
 
+
+                            <div style="margin-top: 20px">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2807.67197539167!2d76.7285105312368!3d30.664583339732328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fe955afa88bcf%3A0xab6356114a6f197f!2sIISER%20Mohali!5e1!3m2!1sen!2sin!4v1755770159813!5m2!1sen!2sin"  height="300" style="border:0; width: 100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div>
                         </div>
                         </div>
                     </div>

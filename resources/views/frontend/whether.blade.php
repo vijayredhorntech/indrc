@@ -22,8 +22,8 @@
             <div class="row">
                 <div class="content-column col-lg-4 col-md-5 col-sm-12">
                         <video controls height="500" style="width: 100%">
-                            <source src="{{asset('assets/front/videos/Winter@iiserm.mp4')}}" type="video/mp4">
-                            <source src="{{asset('assets/front/videos/Winter@iiserm.mp4')}}" type="video/ogg">
+                            <source src="{{asset('assets/front/videos/weather.mp4')}}" type="video/mp4">
+                            <source src="{{asset('assets/front/videos/weather.mp4')}}" type="video/ogg">
                             Your browser does not support the video tag.
                         </video>
                     <span>Video Credit : Jaseem Shan</span>

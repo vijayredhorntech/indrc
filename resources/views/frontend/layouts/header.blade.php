@@ -6,7 +6,7 @@
             <div class="inner-container">
                 <div class="top-left">
                     <ul class="contact-list-two">
-{{--                        <li><strong>Phone</strong> {{config('app.website_phone')}} </li>--}}
+{{--                        <li>7th Indian Drosophila Research Conference 2025 </li>--}}
 {{--                        <li><strong>Email</strong> {{config('app.website_email')}} </li>--}}
                     </ul>
                 </div>
@@ -35,7 +35,10 @@
         <div class="auto-container">
             <!-- Main box -->
             <div class="main-box">
-                <div class="logo"><a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a></div>
+                <div class="logo" style="display: flex; align-items: center">
+                    <a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a>
+                    <span style="font-size: 50px; font-weight: 700">7th Indian Drosophila Research Conference 2025</span>
+                </div>
                 <div class="nav-outer">
 
                     <!-- Main Menu -->
@@ -118,7 +121,10 @@
 
             <div class="main-box">
                 <div class="logo-box">
-                    <div class="logo"><a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a></div>
+                    <div class="logo" style="display: flex; align-items: center">
+                        <a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a>
+                        <span class="StickyHeaderTitle">7th Indian Drosophila Research Conference 2025</span>
+                    </div>
                     <div class="upper-right">
                         <a href="javascript:void(0)" class="mobile-nav-toggler navbar-trigger"><i class="flaticon-menu"></i></a>
                     </div>
@@ -137,6 +143,7 @@
         <div class="nav-outer clearfix">
             <div class="outer-box">
                 <a href="javascript:void(0)" class="mobile-nav-toggler navbar-trigger"><i class="flaticon-menu"></i></a>
+
             </div>
         </div>
     </div>
@@ -148,7 +155,11 @@
         <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
         <nav class="menu-box">
             <div class="upper-box">
-                <div class="nav-logo"><a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a></div>
+                <div class="nav-logo" style="display: flex; flex-direction: column">
+                    <a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a>
+                    <span style="font-size: 20px; line-height: 25px; font-weight: 700">7th Indian Drosophila Research Conference 2025</span>
+
+                </div>
                 <div class="close-btn"><i class="icon flaticon-close"></i></div>
             </div>
 

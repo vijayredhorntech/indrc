@@ -15,9 +15,9 @@
             </div>
 
             <ul class="social-icon-two">
-                <li><a href="https://x.com/IiserMohali?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"><span class="fab fa-twitter"></span></a></li>
-                <li><a href="https://www.youtube.com/c/IISERMohaliOfficialChannel" target="_blank"><span class="fab fa-youtube"></span></a></li>
-                <li><a href="https://www.facebook.com/iisermohaliofficialpage" target="_blank"><span class="fab fa-facebook"></span></a></li>
+                <li><a href="https://x.com/InDRC_2025?t=K6ZydC-zWxtSmP6HM2UDcw&s=08" target="_blank"><span class="fab fa-twitter"></span></a></li>
+                <li><a href="https://www.instagram.com/indrc.2025?igsh=MTN5cngyN2ppYnliMw%3D%3D&utm_source=qr" target="_blank"><span class="fab fa-instagram"></span></a></li>
+                <li><a href="https://www.facebook.com/share/p/174hPBi3aE/" target="_blank"><span class="fab fa-facebook"></span></a></li>
 
 
 
@@ -53,19 +53,19 @@
 
             <div class="inner-container">
 
-                <ul class="footer-nav">
+{{--                <ul class="footer-nav">--}}
 
-                    <li><a href="javascript:void(0)">Terms of Service</a></li>
+{{--                    <li><a href="javascript:void(0)">Terms of Service</a></li>--}}
 
-                    <li><a href="javascript:void(0)">Privacy Policy</a></li>
+{{--                    <li><a href="javascript:void(0)">Privacy Policy</a></li>--}}
 
-                </ul>
+{{--                </ul>--}}
 
 
 
                 <div class="copyright-text">
 
-                    <p>Copyright © 2025 All Rights Reserved by <a href="{{config('app.developer_link')}}" style="white-space: nowrap">{{config('app.developed_by')}}</a></p>
+                    <p>Copyright © 2025 All Rights Reserved. Developed by <a href="{{config('app.developer_link')}}" style="white-space: nowrap">{{config('app.developed_by')}}</a></p>
 
                 </div>
 

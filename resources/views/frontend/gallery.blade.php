@@ -65,11 +65,26 @@
                 <div class="gallery-block col-lg-6 col-md-6 col-sm-12">
                     <div class="image-box">
                         <figure class="image"><img src="{{asset('assets/front/images/gallery/5.jpg')}}" alt=""></figure>
-{{--                        <div class="overlay-box">--}}
-{{--                            <div class="icon"><img src="images/icons/logo.png" alt=""></div>--}}
-{{--                            <h3><a href="schedule-detail.html">Conference Hall</a></h3>--}}
-{{--                            <span class="text">Event # 15</span>--}}
-{{--                        </div>--}}
+                    </div>
+                </div>
+                <div class="gallery-block col-lg-6 col-md-6 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="{{asset('assets/front/images/gallery/9.jpg')}}" alt=""></figure>
+                    </div>
+                </div>
+                <div class="gallery-block col-lg-6 col-md-6 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="{{asset('assets/front/images/gallery/10.jpg')}}" alt=""></figure>
+                    </div>
+                </div>
+                <div class="gallery-block col-lg-6 col-md-6 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="{{asset('assets/front/images/gallery/11.jpg')}}" alt=""></figure>
+                    </div>
+                </div>
+                <div class="gallery-block col-lg-6 col-md-6 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="{{asset('assets/front/images/gallery/12.jpeg')}}" alt=""></figure>
                     </div>
                 </div>
 

@@ -15,6 +15,23 @@
             </div>
         </div>
     </section>
+
+    <section class="gallery-section style-two" style="padding-top: 50px; padding-bottom: 0px">
+        <div class="auto-container">
+            <div class="row">
+                <div class="gallery-block col-lg-12 col-md-12 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="{{asset('assets/front/images/contact/members.png')}}" alt=""></figure>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+
     <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
         <div class="auto-container">
             <div class="row">
@@ -32,38 +49,16 @@
             </div>
 
             <div class="row">
-{{--                <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">--}}
-{{--                    <div class="inner-box">--}}
-{{--                        <div class="image-box">--}}
-{{--                            <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/organisers/lolitika.png')}}" alt=""></a></figure>--}}
-{{--                        </div>--}}
-{{--                        <div class="info-box">--}}
-{{--                            <h4 class="name"><a href="javascript:void(0)">Deepak</a></h4>--}}
-{{--                            <span class="designation"> Maxii's Manager</span>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-            </div>
-
-        </div>
-    </section>
-
-
-    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
-        <div class="auto-container">
-            <div class="row">
-
-                <div class="content-column col-lg-12 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
-                            <h2>Brochure</h2>
-
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Deepak, Dheeraj, Nida, Pooja and Sameeksha</a></h4>
                         </div>
                     </div>
                 </div>
 
             </div>
+
         </div>
     </section>
     <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
@@ -73,24 +68,7 @@
                 <div class="content-column col-lg-12 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
-                            <h2>Finance</h2>
 
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
-        <div class="auto-container">
-            <div class="row">
-
-                <div class="content-column col-lg-12 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
                             <h2>Registration</h2>
 
                         </div>
@@ -98,6 +76,19 @@
                 </div>
 
             </div>
+
+            <div class="row">
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Aindrila Das, Aiswarya K P, Deepak, Dheeraj, Dilsha, Sameeksha, Sujal Chede, Suman Kumar
+                                    Singh, and Sunil Choudhary</a></h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
         </div>
     </section>
     <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
@@ -107,14 +98,26 @@
                 <div class="content-column col-lg-12 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
-                            <h2>Abstract Books</h2>
+
+                            <h2>Brochure</h2>
 
                         </div>
                     </div>
                 </div>
 
             </div>
+
+            <div class="row">
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Dheeraj, Md Kaizer, Siddhi Aggarwal, Simran, and Tamanna</a></h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
         </div>
     </section>
     <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
@@ -124,14 +127,26 @@
                 <div class="content-column col-lg-12 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
-                            <h2>Summary of the Talks</h2>
+
+                            <h2>Finance</h2>
 
                         </div>
                     </div>
                 </div>
 
             </div>
+
+            <div class="row">
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Aindrila Das, Devki, and Himanshu Bhat</a></h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
         </div>
     </section>
     <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
@@ -141,7 +156,36 @@
                 <div class="content-column col-lg-12 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
+
+                            <h2>Abstract</h2>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Akanksha Singh, Devki, Kunmun, Md Kaizer, Sameeksha, and Sunil Choudhary</a></h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
+        <div class="auto-container">
+            <div class="row">
+
+                <div class="content-column col-lg-12 col-md-12 col-sm-12">
+                    <div class="inner-column">
+                        <div class="sec-title">
+
                             <h2>Hospitality</h2>
 
                         </div>
@@ -149,6 +193,19 @@
                 </div>
 
             </div>
+
+            <div class="row">
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Aindrila Das, Anmol, Arya Dhiman, Debapriya Dari, Himanshu Bhat, Rishita, Simran, Sujal
+                                    Chede and Suman Kumar Singh</a></h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
         </div>
     </section>
     <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
@@ -158,7 +215,7 @@
                 <div class="content-column col-lg-12 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
+
                             <h2>Food</h2>
 
                         </div>
@@ -166,23 +223,19 @@
                 </div>
 
             </div>
-        </div>
-    </section>
-    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
-        <div class="auto-container">
+
             <div class="row">
-
-                <div class="content-column col-lg-12 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
-                            <h2>Merchandise</h2>
-
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Aindrila Das, Anmol, Debapriya Dari, Harisankar Durga, Himanshu Bhat, Mridul Karlupia,
+                                    Siddhi Aggarwal, Suman Kumar Singh and Sunil Choudhary</a></h4>
                         </div>
                     </div>
                 </div>
 
             </div>
+
         </div>
     </section>
     <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
@@ -192,41 +245,7 @@
                 <div class="content-column col-lg-12 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
-                            <h2>Social Media/ Publicity</h2>
 
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
-        <div class="auto-container">
-            <div class="row">
-
-                <div class="content-column col-lg-12 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
-                            <h2>Medical/ Emergency</h2>
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
-        <div class="auto-container">
-            <div class="row">
-
-                <div class="content-column col-lg-12 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
                             <h2>Speaker/ Guest Handling</h2>
 
                         </div>
@@ -234,6 +253,18 @@
                 </div>
 
             </div>
+
+            <div class="row">
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Deepak, Devki, Himanshu Bhat, Sohamita Ghoshal, Sujal Chede and Tsering Choton</a></h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
         </div>
     </section>
     <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
@@ -243,31 +274,26 @@
                 <div class="content-column col-lg-12 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
-                            <h2>Venue</h2>
+
+                            <h2>IT/AV/Session Management</h2>
 
                         </div>
                     </div>
                 </div>
 
             </div>
-        </div>
-    </section>
-    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
-        <div class="auto-container">
+
             <div class="row">
-
-                <div class="content-column col-lg-12 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
-                            <h2>IT/AV, Logistics, Session Management</h2>
-
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Dheeraj, Himanshu Bhat, Mridul Karlupia, Pooja, Ritika and Tsering Choton</a></h4>
                         </div>
                     </div>
                 </div>
 
             </div>
+
         </div>
     </section>
     <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
@@ -277,24 +303,7 @@
                 <div class="content-column col-lg-12 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
-                            <h2>Cultural Programme</h2>
 
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
-        <div class="auto-container">
-            <div class="row">
-
-                <div class="content-column col-lg-12 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
                             <h2>Poster Management</h2>
 
                         </div>
@@ -302,7 +311,140 @@
                 </div>
 
             </div>
+
+            <div class="row">
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Abhijith P, Aindrila Das, Debapriya Dari, Deepak, Md Kaizer, Siddhi Aggarwal and Suman
+                                    Kumar Singh</a></h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
         </div>
     </section>
+    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
+        <div class="auto-container">
+            <div class="row">
+
+                <div class="content-column col-lg-12 col-md-12 col-sm-12">
+                    <div class="inner-column">
+                        <div class="sec-title">
+
+                            <h2>Medical Emergency</h2>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Abhijith P, Anmol, Ayushi and Harisankar Durga</a></h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
+        <div class="auto-container">
+            <div class="row">
+
+                <div class="content-column col-lg-12 col-md-12 col-sm-12">
+                    <div class="inner-column">
+                        <div class="sec-title">
+
+                            <h2>Cultural Programme</h2>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Ayushi, Debapriya Dari, Dilsha, Mridul Karlupia, and Rishita</a></h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
+        <div class="auto-container">
+            <div class="row">
+
+                <div class="content-column col-lg-12 col-md-12 col-sm-12">
+                    <div class="inner-column">
+                        <div class="sec-title">
+
+                            <h2>Merchandise</h2>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Aiswarya K P, Anuj Kumar, Debapriya Dari, Kunmun, Rajat, Siddhi Aggarwal, and
+                                    Sohamita Ghoshal</a></h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+    <section class="about-section-two" style="padding-bottom: 0px; padding-top: 30px">
+        <div class="auto-container">
+            <div class="row">
+
+                <div class="content-column col-lg-12 col-md-12 col-sm-12">
+                    <div class="inner-column">
+                        <div class="sec-title">
+
+                            <h2>Social Media</h2>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="info-box">
+                            <h4 class="name"><a href="javascript:void(0)">Anuj Kumar, Arya Dhiman, Atul, Palak and Rajat</a></h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+
+
+
 
 @endsection

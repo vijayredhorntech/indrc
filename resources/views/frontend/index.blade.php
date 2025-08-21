@@ -23,16 +23,13 @@
             <div class="row">
                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
                     <div class="about-image-wrapper">
-                        <figure class="image-3 wow zoomIn" data-wow-delay="900ms"><img src="{{asset('assets/front/images/home/1.png')}}" alt=""/></figure>
-                        <figure class="image-2 wow zoomIn" data-wow-delay="600ms"><img src="{{asset('assets/front/images/home/2.png')}}" alt=""/></figure>
-                        <figure class="image-1 wow zoomIn" data-wow-delay="300ms"><img src="{{asset('assets/front/images/resource/vector.png')}}" alt=""/></figure>
-                        <a href="#" class="lightbox-image play-btn wow zoomIn" data-wow-delay="1200ms"><span class="icon fa fa-play"></span></a>
+                        <img src="{{asset('assets/front/images/home/brochure.jpg')}}" alt="">
                     </div>
                 </div>
                 <div class="content-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">“Knowledge shared is knowledge multiplied.”</span>
+{{--                            <span class="sub-title">“Knowledge shared is knowledge multiplied.”</span>--}}
                             <h2>About the Conference</h2>
                             <span class="divider"></span>
                         </div>
@@ -49,20 +46,19 @@
                             scholars will showcase their talent through oral and poster presentations, making these
                             sessions vital for exchanging innovative ideas and highlighting exceptional research
                             across various disciplines.</p>
+                        <p style="text-align: justify">This event is not just a conference; it is a celebration of scientific progress and a
+                            chance to solidify community bonds. Seize this opportunity to reconnect with
+                            colleagues and forge new professional relationships. The refreshing winter weather in
+                            Punjab will enhance your experience, creating an ideal backdrop for meaningful
+                            scientific dialogue and collaboration. Additionally, a vibrant cultural evening will celebrate Punjab&#39;s rich heritage, featuring
+                            local music, dance, and cuisine. This will be a perfect moment to relax and immerse
+                            yourself in the region's cultural nuances. Our committed organizing team guarantees a
+                            welcoming and enriching experience for every attendee.</p>
+
+                        <p>We eagerly anticipate your presence in Mohali this December!</p>
                     </div>
                 </div>
-                <div class="content-column col-lg-12 col-md-12 col-sm-12">
-                    <p style="text-align: justify">This event is not just a conference; it is a celebration of scientific progress and a
-                        chance to solidify community bonds. Seize this opportunity to reconnect with
-                        colleagues and forge new professional relationships. The refreshing winter weather in
-                        Punjab will enhance your experience, creating an ideal backdrop for meaningful
-                        scientific dialogue and collaboration.</p>
-                    <p style="text-align: justify">Additionally, a vibrant cultural evening will celebrate Punjab&#39;s rich heritage, featuring
-                        local music, dance, and cuisine. This will be a perfect moment to relax and immerse
-                        yourself in the region's cultural nuances. Our committed organizing team guarantees a
-                        welcoming and enriching experience for every attendee.</p>
-                    <p style="text-align: justify">We eagerly anticipate your presence in Mohali this December!</p>
-                </div>
+
 
             </div>
 
@@ -73,244 +69,108 @@
 
 
     <!-- Fun Fact Section -->
-    <section class="fun-fact-section">
+{{--    <section class="fun-fact-section">--}}
 
-        <div class="auto-container">
+{{--        <div class="auto-container">--}}
 
-            <div class="fact-counter">
+{{--            <div class="fact-counter">--}}
 
-                <div class="row clearfix">
+{{--                <div class="row clearfix">--}}
 
-                    <!--Column-->
+{{--                    <!--Column-->--}}
 
-                    <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow zoomIn">
+{{--                    <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow zoomIn">--}}
 
-                        <div class="inner-box">
+{{--                        <div class="inner-box">--}}
 
-                            <div class="count-box">
+{{--                            <div class="count-box">--}}
 
-                                <span class="icon bg-1"></span>
+{{--                                <span class="icon bg-1"></span>--}}
 
-                                <span class="count-text" data-speed="3000" data-stop="0">0</span>
+{{--                                <span class="count-text" data-speed="3000" data-stop="0">0</span>--}}
 
-                            </div>
+{{--                            </div>--}}
 
-                            <span class="counter-title">Speakers</span>
+{{--                            <span class="counter-title">Speakers</span>--}}
 
-                        </div>
+{{--                        </div>--}}
 
-                    </div>
+{{--                    </div>--}}
 
 
 
-                    <!--Column-->
+{{--                    <!--Column-->--}}
 
-                    <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow zoomIn" data-wow-delay="300ms">
+{{--                    <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow zoomIn" data-wow-delay="300ms">--}}
 
-                        <div class="inner-box">
+{{--                        <div class="inner-box">--}}
 
-                            <div class="count-box">
+{{--                            <div class="count-box">--}}
 
-                                <span class="icon bg-2"></span>
+{{--                                <span class="icon bg-2"></span>--}}
 
-                                <span class="count-text" data-speed="3000" data-stop="0">0</span>
+{{--                                <span class="count-text" data-speed="3000" data-stop="0">0</span>--}}
 
-                            </div>
+{{--                            </div>--}}
 
-                            <span class="counter-title">Faculty</span>
+{{--                            <span class="counter-title">Faculty</span>--}}
 
-                        </div>
+{{--                        </div>--}}
 
-                    </div>
+{{--                    </div>--}}
 
 
 
-                    <!--Column-->
+{{--                    <!--Column-->--}}
 
-                    <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow zoomIn" data-wow-delay="600ms">
+{{--                    <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow zoomIn" data-wow-delay="600ms">--}}
 
-                        <div class="inner-box">
+{{--                        <div class="inner-box">--}}
 
-                            <div class="count-box">
+{{--                            <div class="count-box">--}}
 
-                                <span class="icon bg-3"></span>
+{{--                                <span class="icon bg-3"></span>--}}
 
-                                <span class="count-text" data-speed="3000" data-stop="0">0</span>
+{{--                                <span class="count-text" data-speed="3000" data-stop="0">0</span>--}}
 
-                            </div>
+{{--                            </div>--}}
 
-                            <span class="counter-title">Students</span>
+{{--                            <span class="counter-title">Students</span>--}}
 
-                        </div>
+{{--                        </div>--}}
 
-                    </div>
+{{--                    </div>--}}
 
 
 
-                    <!--Column-->
+{{--                    <!--Column-->--}}
 
-                    <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow zoomIn" data-wow-delay="900ms">
+{{--                    <div class="counter-column col-lg-3 col-md-6 col-sm-12 wow zoomIn" data-wow-delay="900ms">--}}
 
-                        <div class="inner-box">
+{{--                        <div class="inner-box">--}}
 
-                            <div class="count-box">
+{{--                            <div class="count-box">--}}
 
-                                <span class="icon bg-4"></span>
+{{--                                <span class="icon bg-4"></span>--}}
 
-                                <span class="count-text" data-speed="3000" data-stop="0">0</span>
+{{--                                <span class="count-text" data-speed="3000" data-stop="0">0</span>--}}
 
-                            </div>
+{{--                            </div>--}}
 
-                            <span class="counter-title">Industry</span>
+{{--                            <span class="counter-title">Industry</span>--}}
 
-                        </div>
+{{--                        </div>--}}
 
-                    </div>
+{{--                    </div>--}}
 
 
 
-                </div>
+{{--                </div>--}}
 
-            </div>
+{{--            </div>--}}
 
-        </div>
-    </section>
-
-
-    <!-- News Section -->
-    <section class="news-section">
-
-        <div class="auto-container">
-
-            <div class="sec-title">
-
-                <span class="sub-title">News</span>
-
-                <h2>Latest From Newsroom</h2>
-
-                <span class="divider"></span>
-
-            </div>
-
-
-
-            <div class="row">
-
-                <!-- News Block -->
-
-                <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
-
-                    <div class="inner-box">
-
-                        <div class="image-box">
-
-                            <span class="tag">News</span>
-
-                            <figure class="image"><a href="#"><img src="{{asset('assets/front/images/resource/news-1.jpg')}}" alt=""></a></figure>
-
-                        </div>
-
-                        <div class="lower-content">
-                            <h4><a href="#">Chances are Good That There’s a Cloud Software as </a></h4>
-
-                            <div class="text">Single stroke at the present moment and yet I feel that lorem quis bibendum auctor.</div>
-
-                            <ul class="post-info">
-
-                                <li><span class="far fa-calendar"></span> 21/08/2021</li>
-
-                                <li><span class="far fa-comments"></span> INDRC</li>
-
-                            </ul>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- News Block Three -->
-
-                <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="400ms">
-
-                    <div class="inner-box">
-
-                        <div class="image-box">
-
-                            <span class="tag">News</span>
-
-                            <figure class="image"><a href="#"><img src="{{asset('assets/front/images/resource/news-2.jpg')}}" alt=""></a></figure>
-
-                        </div>
-
-                        <div class="lower-content">
-
-                            <h4><a href="#">Chances are Good That There’s a Cloud Software as </a></h4>
-
-                            <div class="text">Single stroke at the present moment and yet I feel that lorem quis bibendum auctor.</div>
-
-                            <ul class="post-info">
-
-                                <li><span class="far fa-calendar"></span> 21/08/2021</li>
-
-                                <li><span class="far fa-comments"></span> INDRC</li>
-
-                            </ul>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- News Block Three -->
-
-                <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="800ms">
-
-                    <div class="inner-box">
-
-                        <div class="image-box">
-
-                            <span class="tag">News</span>
-
-                            <figure class="image"><a href="#"><img src="{{asset('assets/front/images/resource/news-3.jpg')}}" alt=""></a></figure>
-
-                        </div>
-
-                        <div class="lower-content">
-                            <h4><a href="#">We Have Top Executive and Start Up Here Event 2021</a></h4>
-
-                            <div class="text">Single stroke at the present moment and yet I feel that lorem quis bibendum auctor.</div>
-
-                            <ul class="post-info">
-
-                                <li><span class="far fa-calendar"></span> 21/08/2021</li>
-
-                                <li><span class="far fa-comments"></span> INDRC</li>
-
-                            </ul>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-
-{{--            <div class="sec-bottom-text"><div class="text"> <a href="javascript:void(0)">Click here</a> to know more</div></div>--}}
-
-        </div>
-
-    </section>
-    <!--End News Section -->
-
+{{--        </div>--}}
+{{--    </section>--}}
 
 
     <section class="speakers-section-three" style="background-image: url({{asset('assets/front/images/background/3.jpg')}});">
@@ -319,7 +179,7 @@
 
             <div class="sec-title light text-center">
 
-{{--                <span class="sub-title">Our Organisers</span>--}}
+                {{--                <span class="sub-title">Our Organisers</span>--}}
 
                 <h2>Organisers</h2>
 
@@ -352,7 +212,7 @@
                                     <a href="mailto:lolitika@iisermohali.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
                                 </div>
 
-{{--                                <div class="text">consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim minim veniam </div>--}}
+                                {{--                                <div class="text">consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim minim veniam </div>--}}
 
                             </div>
 
@@ -384,7 +244,7 @@
 
                                 </div>
 
-{{--                                <div class="text">consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim minim veniam </div>--}}
+                                {{--                                <div class="text">consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim minim veniam </div>--}}
 
                             </div>
 
@@ -411,12 +271,12 @@
                                 <span class="designation">IISER Mohali</span>
 
                                 <div class="social-links">
-{{--                                    <a href= target="_blank"><i class="fab fa-twitter"></i></a>--}}
+                                    {{--                                    <a href= target="_blank"><i class="fab fa-twitter"></i></a>--}}
                                     <a href="mailto:sudip@iisermohali.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
 
                                 </div>
 
-{{--                                <div class="text">consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim minim veniam </div>--}}
+                                {{--                                <div class="text">consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim minim veniam </div>--}}
 
                             </div>
 
@@ -430,6 +290,65 @@
         </div>
 
     </section>
+
+
+
+    <!-- News Section -->
+    <section class="news-section">
+
+        <div class="auto-container">
+
+            <div class="sec-title">
+
+                <span class="sub-title">News</span>
+
+                <h2>Latest From Conference</h2>
+
+                <span class="divider"></span>
+
+            </div>
+
+
+
+            <div class="row">
+                <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+
+                    <div class="inner-box">
+
+                        <div class="image-box">
+
+                            <span class="tag">News</span>
+
+                            <figure class="image"><a href="#"><img src="{{asset('assets/front/images/resource/news-1.jpg')}}" alt=""></a></figure>
+
+                        </div>
+
+                        <div class="lower-content">
+                            <h4><a href="#">Registration starts from 01 September 2025. </a></h4>
+
+{{--                            <div class="text">Single stroke at the present moment and yet I feel that lorem quis bibendum auctor.</div>--}}
+
+{{--                            <ul class="post-info">--}}
+
+{{--                                <li><span class="far fa-calendar"></span> 21/08/2021</li>--}}
+
+{{--                                <li><span class="far fa-comments"></span> INDRC</li>--}}
+
+{{--                            </ul>--}}
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!--End News Section -->
+
+
+
 
 
     <!--Clients Section-->

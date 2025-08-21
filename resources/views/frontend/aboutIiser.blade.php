@@ -18,10 +18,10 @@
     <!--End Page Title-->
 
     <section class="about-section-two">
-        <div class="anim-icons">
-            <span class="icon icon-circle-3"></span>
-            <span class="icon icon-circle-4"></span>
-        </div>
+{{--        <div class="anim-icons">--}}
+{{--            <span class="icon icon-circle-3"></span>--}}
+{{--            <span class="icon icon-circle-4"></span>--}}
+{{--        </div>--}}
 
         <div class="auto-container">
             <div class="row">
@@ -81,7 +81,7 @@
                 <!-- Info Box -->
                 <div class="info-box-one">
                     <div class="inner-box">
-                        <p> style="text-align: justify" Equipped with state-of-the-art laboratories and advanced research facilities, alongside highly
+                        <p style="text-align: justify">  Equipped with state-of-the-art laboratories and advanced research facilities, alongside highly
                             qualified faculties, IISER Mohali is at the forefront of high-impact research focused on
                             addressing both fundamental scientific questions and pressing real-world challenges. The
                             Institute champions academic freedom, critical thinking, and societal relevance, effectively

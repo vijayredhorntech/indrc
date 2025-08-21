@@ -11,6 +11,18 @@
 	  left: -240px;
 	}
 }
+@media only screen and (max-width: 1250px){
+
+    .header-style-two .logo span {
+        font-size: 40px;
+    }
+    .main-header .nav-outer {
+        padding-left: 30px;
+    }
+    .main-menu .navigation>li{
+        margin-right: 28px;
+    }
+}
 
 @media only screen and (max-width: 1200px){
 	.header-style-two .logo-box{
@@ -28,10 +40,17 @@
 	.about-section-two .icon-circle-3{
 		display: none;
 	}
+
 }
 
 @media only screen and (max-width: 1139px){
-	.header-top-two,
+	.StickyHeaderTitle
+    {
+        display: none;
+    }
+
+
+    .header-top-two,
 	.header-style-one .header-top{
 		display: none;
 	}
