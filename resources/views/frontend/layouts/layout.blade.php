@@ -54,7 +54,7 @@
         @media only screen and (max-width: 500px){
             .MainBannerImages
             {
-                height: 300px;
+                height: 220px;
             }
         }
     </style>
