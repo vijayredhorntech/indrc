@@ -31,6 +31,8 @@
             </div>
 
             <div class="row">
+
+
                 <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;" >
                     <div class="inner-box">
                         <div class="image-box">
@@ -79,6 +81,8 @@
                         </div>
                     </div>
                 </div>
+
+
                 <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;" >
                     <div class="inner-box">
                         <div class="image-box">
@@ -127,6 +131,8 @@
                         </div>
                     </div>
                 </div>
+
+
                 <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;" >
                     <div class="inner-box">
                         <div class="image-box">
@@ -175,6 +181,8 @@
                         </div>
                     </div>
                 </div>
+
+
                 <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="900ms" style="visibility: visible; animation-delay: 900ms; animation-name: fadeInUp;" >
                     <div class="inner-box">
                         <div class="image-box">
@@ -223,6 +231,8 @@
                         </div>
                     </div>
                 </div>
+
+
                 <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="1200ms" style="visibility: visible; animation-delay: 1200ms; animation-name: fadeInUp;">
                     <div class="inner-box">
                         <div class="image-box">
@@ -271,6 +281,122 @@
                         </div>
                     </div>
                 </div>
+
+
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="1500ms" style="visibility: visible; animation-delay: 1500ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/sveta.png')}}" alt=""></a></figure>
+                        </div>
+                        <div class="info-box">
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Sveta Chakrabarti</a></h4>
+                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Immunology, Developmental biology, and Genetics</p>
+                            <p class="designation" style="text-align: center">Manipal Academy of Higher Education</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="1500ms" style="visibility: visible; animation-delay: 1500ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/dhananjay.png')}}" alt=""></a></figure>
+                        </div>
+                        <div class="info-box">
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Dhananjay Chaturvedi</a></h4>
+                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Developmental Biology</p>
+                            <p class="designation" style="text-align: center">CCMB, Hyderabad</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="1500ms" style="visibility: visible; animation-delay: 1500ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/richa.png')}}" alt=""></a></figure>
+                        </div>
+                        <div class="info-box">
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Richa Arya</a></h4>
+                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Genetics, Epigenetics, Developmental Biology, Stem cell biology</p>
+                            <p class="designation" style="text-align: center">BHU, Varanasi</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="1500ms" style="visibility: visible; animation-delay: 1500ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/debdeep.png')}}" alt=""></a></figure>
+                        </div>
+                        <div class="info-box">
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Debdeep Dutta</a></h4>
+                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Genetic, Cellular, and Molecular mechanisms</p>
+                            <p class="designation" style="text-align: center">IIT Kanpur</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="1800ms" style="visibility: visible; animation-delay: 1800ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/shehnaz.png')}}" alt=""></a></figure>
+                        </div>
+                        <div class="info-box">
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Shenaz R Lone</a></h4>
+                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Behavioral Neurogeneticist</p>
+                            <p class="designation" style="text-align: center">Gitam University</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="1800ms" style="visibility: visible; animation-delay: 1800ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/subhash.png')}}" alt=""></a></figure>
+                        </div>
+                        <div class="info-box">
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Subhash Rajpurohit</a></h4>
+                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Ecological and Evolutionary physiology</p>
+                            <p class="designation" style="text-align: center">Ahmedabad University</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="1800ms" style="visibility: visible; animation-delay: 1800ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/meghna.png')}}" alt=""></a></figure>
+                        </div>
+                        <div class="info-box">
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Meghna Tare</a></h4>
+                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Cellular and Molecular Genetics of Human Diseases</p>
+                            <p class="designation" style="text-align: center">BITS Pilani</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="1800ms" style="visibility: visible; animation-delay: 1800ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/anand.png')}}" alt=""></a></figure>
+                        </div>
+                        <div class="info-box">
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Anand Kumar Singh</a></h4>
+                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">RNA metabolism in health and disease.</p>
+                            <p class="designation" style="text-align: center">IISER Tirupati</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="2100ms" style="visibility: visible; animation-delay: 2100ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/shampa.png')}}" alt=""></a></figure>
+                        </div>
+                        <div class="info-box">
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Shampa M. Ghosh</a></h4>
+                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Evolution and Evolutionary Developmental Biology</p>
+                            <p class="designation" style="text-align: center">KIIT University, Bhubaneswar</p>
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
         </div>
     </section>
