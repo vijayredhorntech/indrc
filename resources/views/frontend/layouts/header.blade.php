@@ -37,7 +37,7 @@
             <div class="main-box">
                 <div class="logo" style="display: flex; align-items: center">
                     <a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a>
-                    <span style="font-size: 50px; font-weight: 700; color: #081245">7th Indian Drosophila Research Conference 2025</span>
+                    <span style="font-size: 50px; font-weight: 700; color: #081245">7<sup>th</sup>  Indian Drosophila Research Conference 2025</span>
                 </div>
                 <div class="nav-outer">
 
@@ -71,14 +71,15 @@
 {{--                                        <li><a href="#">Registration</a></li>--}}
 {{--                                    </ul>--}}
 {{--                                </li>--}}
-                                <li><a href="{{route('registration')}}">Registration</a></li>
-                                <li><a href="{{route('awards')}}">Awards</a></li>
+                                <li><a href="{{route('registration')}}">Registration & Abstract Submission</a></li>
+                                <li><a href="{{route('speakers')}}">Speakers</a></li>
+                                <li><a href="{{route('program')}}">Program</a></li>
 
 
-                                <li class="dropdown"><a href="#">Program</a>
-                                    <ul>
-                                        <li><a href="{{route('program')}}">Daily Program</a></li>
-                                        <li><a href="{{route('speakers')}}">Invited Speaker</a></li>
+{{--                                <li class="dropdown"><a href="#">Program</a>--}}
+{{--                                    <ul>--}}
+{{--                                        <li><a href="{{route('program')}}">Daily Program</a></li>--}}
+{{--                                        <li><a href="{{route('speakers')}}">Invited Speaker</a></li>--}}
 {{--                                        <li><a href="{{route('poster_presentation')}}">Poster Presentation</a></li>--}}
 {{--                                        <li class="dropdown"><a href="about.html#">Header Styles</a>--}}
 {{--                                            <ul>--}}
@@ -87,9 +88,10 @@
 {{--                                                <li><a href="index-3.html">Header Style 03</a></li>--}}
 {{--                                            </ul>--}}
 {{--                                        </li>--}}
-                                    </ul>
-                                </li>
+{{--                                    </ul>--}}
+{{--                                </li>--}}
                                 <li><a href="{{route('accommodation')}}">Accommodation</a></li>
+                                <li><a href="{{route('awards')}}">Awards</a></li>
                                 <li><a href="{{route('code-of-conduct')}}">Code of Conduct</a></li>
                                 <li><a href="{{route('sponsorship')}}">Sponsorship</a></li>
                                 <li class="dropdown"><a href="#">Contact</a>
@@ -123,7 +125,7 @@
                 <div class="logo-box">
                     <div class="logo" style="display: flex; align-items: center">
                         <a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a>
-                        <span class="StickyHeaderTitle" style="color: #081245">7th Indian Drosophila Research Conference 2025</span>
+                        <span class="StickyHeaderTitle" style="color: #081245">7<sup>th</sup> Indian Drosophila Research Conference 2025</span>
                     </div>
                     <div class="upper-right">
                         <a href="javascript:void(0)" class="mobile-nav-toggler navbar-trigger"><i class="flaticon-menu"></i></a>
@@ -157,7 +159,7 @@
             <div class="upper-box">
                 <div class="nav-logo" style="display: flex; flex-direction: column">
                     <a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a>
-                    <span style="font-size: 20px; line-height: 25px; font-weight: 700; color: #081245">7th Indian Drosophila Research Conference 2025</span>
+                    <span style="font-size: 20px; line-height: 25px; font-weight: 700; color: #081245">7<sup>th</sup> Indian Drosophila Research Conference 2025</span>
 
                 </div>
                 <div class="close-btn"><i class="icon flaticon-close"></i></div>

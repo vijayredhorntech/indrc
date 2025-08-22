@@ -29,7 +29,6 @@
 
                     <div class="sec-title">
 
-                        <span class="sub-title">Sponsors</span>
 
                         <h2>Our Official Sponsors</h2>
 

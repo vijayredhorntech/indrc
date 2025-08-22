@@ -22,9 +22,9 @@
                 <div class="content-column col-lg-12 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                           <span class="sub-title">Attractions</span>
                             <h2>Local attractions near IISER Mohali</h2>
                             <span class="divider"></span>
+
                             <div class="text"><strong>IISER Mohali</strong> is located in the vibrant city of Mohali, nestled in the foothills of the Shivalik range. The campus enjoys proximity to several local attractions that offer a rich blend of natural beauty and historical significance.</div>
 
                             <h3 style="margin-top: 20px">Fateh Burj (Chappar Chiri):</h3>

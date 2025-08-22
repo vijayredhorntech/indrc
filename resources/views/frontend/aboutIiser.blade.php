@@ -29,7 +29,7 @@
                 <div class="content-column col-lg-8 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">About</span>
+{{--                            <span class="sub-title">About</span>--}}
                             <h2>About IISER Mohali</h2>
                             <span class="divider"></span>
                             <div class="text" style="text-align: justify">The Indian Institute of Science Education and Research Mohali (IISER Mohali), which was
@@ -66,31 +66,26 @@
                     </div>
                 </div>
             </div>
+            <div class="row" style="margin-top: 30px">
 
-
-            <!-- Fact Counter Two -->
-
-            <!-- Video Box Outer -->
-            <div class="video-box-outer">
-                <!-- Video Box -->
-                <div class="video-box-one order-2">
-                    <figure class="image"><img src="{{asset('assets/front/images/organisers/aboutiiser.png')}}" alt=""></figure>
-{{--                    <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image play-btn wow fadeIn animated" data-wow-delay="500ms" style="visibility: visible; animation-delay: 500ms; animation-name: fadeIn;"><i class="icon flaticon-play-button-1"></i></a>--}}
-                </div>
-
-                <!-- Info Box -->
-                <div class="info-box-one">
-                    <div class="inner-box">
-                        <p style="text-align: justify">  Equipped with state-of-the-art laboratories and advanced research facilities, alongside highly
-                            qualified faculties, IISER Mohali is at the forefront of high-impact research focused on
-                            addressing both fundamental scientific questions and pressing real-world challenges. The
-                            Institute champions academic freedom, critical thinking, and societal relevance, effectively
-                            preparing its students to become adept researchers and conscientious global citizens.
-                            As a dynamic hub of scientific excellence, IISER Mohali is shaping the future of science
-                            education and innovation both in India and on the global stage.</p>
-                    </div>
+                 <div class="col-lg-6 col-md-6 col-sm-12">
+                     <div class="inner-box">
+                         <p style="text-align: justify">  Equipped with state-of-the-art laboratories and advanced research facilities, alongside highly
+                             qualified faculties, IISER Mohali is at the forefront of high-impact research focused on
+                             addressing both fundamental scientific questions and pressing real-world challenges. The
+                             Institute champions academic freedom, critical thinking, and societal relevance, effectively
+                             preparing its students to become adept researchers and conscientious global citizens.
+                             As a dynamic hub of scientific excellence, IISER Mohali is shaping the future of science
+                             education and innovation both in India and on the global stage.</p>
+                     </div>
+                 </div>
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                        <img src="{{asset('assets/front/images/organisers/aboutiiser.png')}}" alt="">
                 </div>
             </div>
+
+
+
 
         </div>
     </section>

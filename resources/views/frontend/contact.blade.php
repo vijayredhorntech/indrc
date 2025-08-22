@@ -22,7 +22,6 @@
                 <div class="contact-column col-lg-5 col-md-12 col-sm-12 order-2">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">QUICK CONTACT</span>
                             <h2>Need Help? Contact Us</h2>
                             <span class="divider"></span>
                             <div class="text">Get in touch with us. </div>
@@ -34,12 +33,12 @@
                                 <p>{{config('app.website_address')}}</p>
                             </li>
 
-                            <li>
-                                <span class="icon fa fa-phone-volume"></span>
-                                <h4>Phone</h4>
-                                <p><a href="tel:{{config('app.website_phone')}}">{{config('app.website_phone')}}</a></p>
+{{--                            <li>--}}
+{{--                                <span class="icon fa fa-phone-volume"></span>--}}
+{{--                                <h4>Phone</h4>--}}
+{{--                                <p><a href="tel:{{config('app.website_phone')}}">{{config('app.website_phone')}}</a></p>--}}
 
-                            </li>
+{{--                            </li>--}}
 
                             <li>
                                 <span class="icon fa fa-envelope"></span>

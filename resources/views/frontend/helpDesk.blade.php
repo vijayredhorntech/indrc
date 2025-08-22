@@ -39,7 +39,6 @@
                 <div class="content-column col-lg-12 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">Help Desk</span>
                             <h2>Website</h2>
 
                         </div>

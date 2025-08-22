@@ -1,6 +1,6 @@
 @extends('frontend.layouts.layout')
 @section('content')
-    <section class="page-title" style="background-image: url({{asset('assets/front/images/main-slider/aboutiiserBanner.png')}}); background-repeat: no-repeat; background-position: center; background-size: cover">
+    <section class="page-title" style="background-image: url({{asset('assets/front/images/main-slider/weather.png')}}); background-repeat: no-repeat; background-position: center; background-size: cover">
         <div class="anim-icons full-width">
             <span class="icon icon-bull-eye"></span>
             <span class="icon icon-dotted-circle"></span>
@@ -31,7 +31,6 @@
                 <div class="content-column col-lg-8 col-md-7 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title">
-                            <span class="sub-title">Weather</span>
                             <h2>About Weather</h2>
                             <span class="divider"></span>
                             <div class="text">For the conference at IISER Mohali from December 11–13, 2025, expect mild winter weather with daytime highs of 20–22°C and chilly nights around 7–9°C. Skies will likely be clear to partly cloudy, with a low 4–30% chance of light showers. Pack business casual attire like long-sleeve shirts and trousers, paired with a light jacket or sweater for cooler mornings and evenings. Bring a scarf, umbrella, and comfortable shoes to stay prepared for variable conditions. Check local forecasts closer to the date for updates.</div>
