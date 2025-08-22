@@ -139,7 +139,11 @@
 
     <!-- Mobile Header -->
     <div class="mobile-header">
-        <div class="logo"><a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a></div>
+        <div class="logo" style="display: flex; align-items: center">
+            <a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a>
+            <span style="font-size: 25px; font-weight: 700; color: #081245">InDRC 2025</span>
+
+        </div>
 
         <!--Nav Box-->
         <div class="nav-outer clearfix">

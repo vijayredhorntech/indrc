@@ -16,7 +16,7 @@
     </div>
 
     <!-- About Section -->
-    <section class="about-section" style="padding: 0px">
+    <section class="about-section" >
 
         <div class="auto-container">
 
