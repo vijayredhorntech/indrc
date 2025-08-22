@@ -315,7 +315,7 @@
                 <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
                     <div class="inner-box">
                         <div class="info-box">
-                            <h4 class="name"><a href="javascript:void(0)">Abhijith P, Aindrila Das, Debapriya Dari, Deepak, Md Kaizer, Siddhi Aggarwal and Suman
+                            <h4 class="name"><a href="javascript:void(0)">Abhijith P, Aindrila Das, Debapriya Dari, Deepak, Md Kaizer, Ritika, Siddhi Aggarwal and Suman
                                     Kumar Singh</a></h4>
                         </div>
                     </div>
@@ -374,7 +374,7 @@
                 <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
                     <div class="inner-box">
                         <div class="info-box">
-                            <h4 class="name"><a href="javascript:void(0)">Ayushi, Debapriya Dari, Dilsha, Mridul Karlupia, and Rishita</a></h4>
+                            <h4 class="name"><a href="javascript:void(0)">Ayushi, Debapriya Dari, Dilsha, Mridul Karlupia, Ritika, and Rishita</a></h4>
                         </div>
                     </div>
                 </div>
