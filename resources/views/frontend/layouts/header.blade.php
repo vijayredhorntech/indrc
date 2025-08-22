@@ -118,24 +118,24 @@
     </div>
 
     <!-- Sticky Header  -->
-    <div class="sticky-header">
-        <div class="auto-container">
+{{--    <div class="sticky-header">--}}
+{{--        <div class="auto-container">--}}
 
-            <div class="main-box">
-                <div class="logo-box">
-                    <div class="logo" style="display: flex; align-items: center">
-                        <a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a>
-                        <span class="StickyHeaderTitle" style="color: #081245">7<sup>th</sup> Indian Drosophila Research Conference 2025</span>
-                    </div>
-                    <div class="upper-right">
-                        <a href="javascript:void(0)" class="mobile-nav-toggler navbar-trigger"><i class="flaticon-menu"></i></a>
-                    </div>
-                </div>
+{{--            <div class="main-box">--}}
+{{--                <div class="logo-box">--}}
+{{--                    <div class="logo" style="display: flex; align-items: center">--}}
+{{--                        <a href="{{route('index')}}"><img src="{{config('app.logo')}}" alt="" title=""></a>--}}
+{{--                        <span class="StickyHeaderTitle" style="color: #081245">7<sup>th</sup> Indian Drosophila Research Conference 2025</span>--}}
+{{--                    </div>--}}
+{{--                    <div class="upper-right">--}}
+{{--                        <a href="javascript:void(0)" class="mobile-nav-toggler navbar-trigger"><i class="flaticon-menu"></i></a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
-                <!--Keep This Empty / Menu will come through Javascript-->
-            </div>
-        </div>
-    </div><!-- End Sticky Menu -->
+{{--                <!--Keep This Empty / Menu will come through Javascript-->--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div><!-- End Sticky Menu -->--}}
 
     <!-- Mobile Header -->
     <div class="mobile-header">

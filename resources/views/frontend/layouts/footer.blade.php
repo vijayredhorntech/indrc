@@ -35,7 +35,7 @@
 
                 <li><i class="flaticon-location"></i> {{config('app.website_address')}} <strong>Address</strong></li>
 
-                <li><i class="flaticon-alarm-clock-1"></i>{{config('app.website_phone')}} <strong>Phone</strong></li>
+{{--                <li><i class="flaticon-alarm-clock-1"></i>{{config('app.website_phone')}} <strong>Phone</strong></li>--}}
 
                 <li><i class="flaticon-email-1"></i> <a href="mailto:{{config('app.website_email')}}">{{config('app.website_email')}}</a> <strong>Mail to us</strong></li>
 
@@ -65,7 +65,7 @@
 
                 <div class="copyright-text">
 
-                    <p>Copyright © 2025 All Rights Reserved. Developed by <a href="{{config('app.developer_link')}}" style="white-space: nowrap">{{config('app.developed_by')}}</a></p>
+                    <p>Copyright © 2025 All Rights Reserved. Developed by <a href="{{config('app.developer_link')}}" style="white-space: nowrap; color: #081245">{{config('app.developed_by')}}</a></p>
 
                 </div>
 

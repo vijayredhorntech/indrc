@@ -16,7 +16,7 @@
     </div>
 
     <!-- About Section -->
-    <section class="about-section">
+    <section class="about-section" style="padding: 0px">
 
         <div class="auto-container">
 
@@ -294,13 +294,12 @@
 
 
     <!-- News Section -->
-    <section class="news-section">
+    <section class="news-section" style="padding: 50px 0px 0px">
 
         <div class="auto-container">
 
             <div class="sec-title">
 
-                <span class="sub-title">News</span>
 
                 <h2>Latest From Conference</h2>
 
@@ -364,7 +363,6 @@
 
                     <div class="sec-title">
 
-                        <span class="sub-title">Sponsors</span>
 
                         <h2>Our Official <br>Sponsors</h2>
 
