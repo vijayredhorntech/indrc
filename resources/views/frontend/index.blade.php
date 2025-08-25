@@ -8,7 +8,7 @@
 
     <div class="swiffy-slider slider-nav-autoplay slider-nav-animation slider-nav-animation-fadein">
         <ul class="slider-container" style="width: 100%">
-            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/main-banner.jpg')}}" class="MainBannerImages"></li>
+            <li style="display: flex; justify-content: center; background-color: black"><img src="{{asset('assets/front/images/main-slider/main-banner2.png')}}" class="MainBannerImages"></li>
         </ul>
 
 {{--        <button type="button" class="slider-nav"></button>--}}

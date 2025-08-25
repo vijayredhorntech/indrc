@@ -3308,7 +3308,7 @@ Page Title
     background-position: center;
     background-size: cover;
     text-align: center;
-    padding: 100px 0;
+    padding: 150px 0;
     background: #F5F7FC;
 }
 
@@ -3330,18 +3330,18 @@ Page Title
     animation: fa-spin 60s infinite;
 }
 
-.page-title:before {
-    position: absolute;
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    background: rgba(0, 14, 193, 0.85);
-    background: -o-radial-gradient(center, ellipse, rgba(0, 14, 193, 0.46) 0%, rgba(0, 12, 71, 0.75) 100%, rgba(0, 12, 71, 0.85) 100%);
-    background: radial-gradient(ellipse at center, rgba(0, 14, 193, 0.46) 0%, rgba(0, 12, 71, 0.75) 100%, rgba(0, 12, 71, 0.85) 100%);
-    content: "";
-    opacity: .9;
-}
+/*.page-title:before {*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    top: 0;*/
+/*    height: 100%;*/
+/*    width: 100%;*/
+/*    background: rgba(0, 14, 193, 0.85);*/
+/*    background: -o-radial-gradient(center, ellipse, rgba(0, 14, 193, 0.46) 0%, rgba(0, 12, 71, 0.75) 100%, rgba(0, 12, 71, 0.85) 100%);*/
+/*    background: radial-gradient(ellipse at center, rgba(0, 14, 193, 0.46) 0%, rgba(0, 12, 71, 0.75) 100%, rgba(0, 12, 71, 0.85) 100%);*/
+/*    content: "";*/
+/*    opacity: .9;*/
+/*}*/
 
 .page-title h1 {
     position: relative;

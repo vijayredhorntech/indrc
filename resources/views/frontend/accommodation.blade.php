@@ -7,17 +7,21 @@
         </div>
         <div class="auto-container">
             <div class="title-outer">
-                <h1>Accommodations</h1>
-                <ul class="page-breadcrumb">
-                    <li><a href="{{route('index')}}">Home</a></li>
-                    <li>Accommodations</li>
-                </ul>
+{{--                <h1>Accommodations</h1>--}}
+{{--                <ul class="page-breadcrumb">--}}
+{{--                    <li><a href="{{route('index')}}">Home</a></li>--}}
+{{--                    <li>Accommodations</li>--}}
+{{--                </ul>--}}
             </div>
         </div>
     </section>
     <!--End Page Title-->
     <section class="gallery-section style-two" style="padding-top: 50px; padding-bottom: 0px">
         <div class="auto-container">
+            <div class="sec-title text-center">
+                <h2>Accommodations</h2>
+                <span class="divider"></span>
+            </div>
             <div class="row">
                 <!-- Gallery Block -->
                 <div class="gallery-block col-lg-6 col-md-6 col-sm-12">

@@ -7,11 +7,11 @@
         </div>
         <div class="auto-container">
             <div class="title-outer">
-                <h1>About IISER Mohali</h1>
-                <ul class="page-breadcrumb">
-                    <li><a href="{{route('index')}}">Home</a></li>
-                    <li>About IISER</li>
-                </ul>
+{{--                <h1>About IISER Mohali</h1>--}}
+{{--                <ul class="page-breadcrumb">--}}
+{{--                    <li><a href="{{route('index')}}">Home</a></li>--}}
+{{--                    <li>About IISER</li>--}}
+{{--                </ul>--}}
             </div>
         </div>
     </section>

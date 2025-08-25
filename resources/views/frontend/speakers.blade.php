@@ -7,11 +7,11 @@
         </div>
         <div class="auto-container">
             <div class="title-outer">
-                <h1>Speakers</h1>
-                <ul class="page-breadcrumb">
-                    <li><a href="{{route('index')}}">Home</a></li>
-                    <li>Speakers</li>
-                </ul>
+{{--                <h1>Speakers</h1>--}}
+{{--                <ul class="page-breadcrumb">--}}
+{{--                    <li><a href="{{route('index')}}">Home</a></li>--}}
+{{--                    <li>Speakers</li>--}}
+{{--                </ul>--}}
             </div>
         </div>
     </section>
@@ -25,7 +25,7 @@
 
         <div class="auto-container">
             <div class="sec-title text-center">
-                <h2>Invited Speakers</h2>
+                <h2>Speakers</h2>
                 <span class="divider"></span>
             </div>
 
@@ -401,3 +401,4 @@
     </section>
 
 @endsection
+

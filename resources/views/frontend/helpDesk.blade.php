@@ -7,17 +7,23 @@
         </div>
         <div class="auto-container">
             <div class="title-outer">
-                <h1>Help Desk</h1>
-                <ul class="page-breadcrumb">
-                    <li><a href="{{route('index')}}">Home</a></li>
-                    <li>Help Desk</li>
-                </ul>
+{{--                <h1>Help Desk</h1>--}}
+{{--                <ul class="page-breadcrumb">--}}
+{{--                    <li><a href="{{route('index')}}">Home</a></li>--}}
+{{--                    <li>Help Desk</li>--}}
+{{--                </ul>--}}
             </div>
         </div>
     </section>
 
     <section class="gallery-section style-two" style="padding-top: 50px; padding-bottom: 0px">
         <div class="auto-container">
+            <div class="sec-title text-center">
+                <h2>Help Desk</h2>
+                <span class="divider"></span>
+            </div>
+
+
             <div class="row">
                 <div class="gallery-block col-lg-12 col-md-12 col-sm-12">
                     <div class="image-box">
@@ -403,7 +409,7 @@
                 <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
                     <div class="inner-box">
                         <div class="info-box">
-                            <h4 class="name"><a href="javascript:void(0)">Aiswarya K P, Anuj Kumar, Debapriya Dari, Kunmun, Rajat, Siddhi Aggarwal, and
+                            <h4 class="name"><a href="javascript:void(0)">Aiswarya K P, Anuj Kumar, Debapriya Dari, Himanshu Bhat, Kunmun, Rajat, Siddhi Aggarwal, and
                                     Sohamita Ghoshal</a></h4>
                         </div>
                     </div>
@@ -433,7 +439,7 @@
                 <div class="speaker-block col-lg-12 col-md-12 col-sm-12 wow fadeInUp animated" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeInUp;">
                     <div class="inner-box">
                         <div class="info-box">
-                            <h4 class="name"><a href="javascript:void(0)">Anuj Kumar, Arya Dhiman, Atul, Palak and Rajat</a></h4>
+                            <h4 class="name"><a href="javascript:void(0)">Anuj Kumar, Arya Dhiman, Atul, Himanshu Bhat, Palak and Rajat</a></h4>
                         </div>
                     </div>
                 </div>

@@ -7,11 +7,11 @@
         </div>
         <div class="auto-container">
             <div class="title-outer">
-                <h1>Contact Us</h1>
-                <ul class="page-breadcrumb">
-                    <li><a href="{{route('index')}}">Home</a></li>
-                    <li>Contact Us</li>
-                </ul>
+{{--                <h1>Contact Us</h1>--}}
+{{--                <ul class="page-breadcrumb">--}}
+{{--                    <li><a href="{{route('index')}}">Home</a></li>--}}
+{{--                    <li>Contact Us</li>--}}
+{{--                </ul>--}}
             </div>
         </div>
     </section>
