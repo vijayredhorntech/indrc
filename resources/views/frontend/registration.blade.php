@@ -16,20 +16,145 @@
         </div>
     </section>
     <!--End Page Title-->
-    <section class="map-section" style="padding-top: 50px">
+    <section class="about-section-two" style="padding-top: 50px; padding-bottom: 0px">
         <div class="auto-container">
-            <div class="row clearfix">
+            <div class="row">
 
-                <!-- Form Column -->
-                <div class="map-column col-lg-12 col-md-12 col-sm-12">
-                    <!--Map Outer-->
-                    <div class="map-outer" style="position: relative">
+                <div class="content-column col-lg-6 col-md-6 col-sm-12">
+                    <div class="inner-column">
+                        <div class="sec-title" style="text-align: justify">
+                            <h2>Registration and Accommodation</h2>
 
-                        <img src="{{asset('assets/front/images/background/comming-soon.png')}}" alt="" style="width: 100%; height: 100%">
+                            <h3 style="margin-top: 20px">Registration Dates</h3>
+                            <div class="text" style="margin-top: 10px">September 01, 2025 to October 10, 2025</div>
+
+                            <h3 style="margin-top: 20px">Registration Includes</h3>
+                            <div class="text" style="margin-top: 10px; padding-left: 20px">• Registration Kit</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px">• Breakfast and Lunch for all conference days</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px">• One dinner and One Conference Dinner</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px">• Morning and afternoon tea/coffee each day</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px">• High Tea on the last day</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px">• Entry to all sessions and conference facilities</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px">• Opportunity to submit abstracts and present an oral or poster presentation</div>
+                            <div class="text" style="margin-top: 5px"><strong>Please Note:</strong> Registration Fee does not include accommodation charges.</div>
+
+                            <h3 style="margin-top: 20px">Registration Fees</h3>
+                            <div class="text" style="margin-top: 10px; padding-left: 20px"><strong>• IISER Mohali Students/Postdocs:</strong> Rs. 5000 (GST not applicable)</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>• Non-IISER Mohali Students/Postdocs:</strong> Rs. 5900 (GST included)</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>• IISER Mohali Faculty/Scientists:</strong> Rs. 7500 (GST not applicable)</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>• Non-IISER Mohali Faculty/Scientists:</strong> Rs. 8850 (GST included)</div>
+
+                            <h3 style="margin-top: 20px">Accommodation</h3>
+                            <div class="text" style="margin-top: 10px; padding-left: 20px"><strong>• Faculty/Scientists:</strong> Will be accommodated at the IISER Mohali Guest House (Visitor Hostel).</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>• Students/Postdocs:</strong> Will be accommodated in the IISER Mohali hostels.</div>
+
+                            <h3 style="margin-top: 20px">Accommodation Charges</h3>
+                            <div class="text" style="margin-top: 10px">Please indicate your need for accommodation and the number of nights required during registration. Payment for accommodation must be made along with the registration fee.</div>
+                            <div class="text" style="margin-top: 10px; padding-left: 20px"><strong>• Students/Postdocs:</strong> Rs. 500 per night (GST included)</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>• Faculty/Scientists:</strong> Rs. 900 per night (GST included)</div>
+
+                            <h3 style="margin-top: 20px">Information for Accompanying Persons</h3>
+                            <div class="text" style="margin-top: 10px">Accompanying persons (family members or friends) must register if they wish to attend social events, meals, and the conference dinner. For details on registration and accommodation charges for accompanying persons, please email the organizers at <strong>indrciiserm2025@gmail.com</strong> with the subject line: “Query about accompanying person.”</div>
+
+                            <h3 style="margin-top: 20px">Child Care Facility</h3>
+                            <div class="text" style="margin-top: 10px">IISER Mohali has a creche/day care facility in the Community Center Complex for children aged 1.5 years and above. The creche is open Monday to Saturday, from 9:00 am to 6:00 pm. To avail of this facility for your child, please email the organizers at <strong>indrciiserm2025@gmail.com</strong> with the subject line: “Query about day care facility.”</div>
+
+                            <h3 style="margin-top: 20px">Payment Options</h3>
+                            <div class="text" style="margin-top: 10px">The online registration form will display the exact amount to be paid based on your category and accommodation needs.</div>
+                            <div class="text" style="margin-top: 10px; padding-left: 20px"><strong>•</strong> Please note the Transaction ID and save the payment receipt as a PDF.</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>•</strong> Upload the payment receipt PDF on the registration portal to complete your registration.</div>
+                            <div class="text" style="margin-top: 10px">For payments via RTGS/NEFT, use the following bank details:</div>
+
+                            <table class="bank-details-table" style="border: 1px solid black; border-collapse: collapse">
+                                <tr style="border: 1px solid black;">
+                                    <td style="border: 1px solid black; padding: 5px 10px" class="field-name">Name of Account Holder</td>
+                                    <td style="border: 1px solid black; padding: 5px 10px">IISER Mohali Conference Account</td>
+                                </tr>
+                                <tr style="border: 1px solid black;">
+                                    <td style="border: 1px solid black; padding: 5px 10px" class="field-name">Account Number</td>
+                                    <td style="border: 1px solid black; padding: 5px 10px">4790101002303</td>
+                                </tr>
+                                <tr style="border: 1px solid black;">
+                                    <td style="border: 1px solid black; padding: 5px 10px" class="field-name">Swift Code</td>
+                                    <td style="border: 1px solid black; padding: 5px 10px">CNRBINBBBFD</td>
+                                </tr>
+                                <tr style="border: 1px solid black;">
+                                    <td style="border: 1px solid black; padding: 5px 10px" class="field-name">IFS Code</td>
+                                    <td style="border: 1px solid black; padding: 5px 10px">CNRB0004790</td>
+                                </tr>
+                                <tr style="border: 1px solid black;">
+                                    <td style="border: 1px solid black; padding: 5px 10px" class="field-name">Account Type</td>
+                                    <td style="border: 1px solid black; padding: 5px 10px">Savings Account</td>
+                                </tr>
+                                <tr style="border: 1px solid black;">
+                                    <td style="border: 1px solid black; padding: 5px 10px" class="field-name">Bank Name</td>
+                                    <td style="border: 1px solid black; padding: 5px 10px">Canara Bank</td>
+                                </tr>
+                                <tr style="border: 1px solid black;">
+                                    <td style="border: 1px solid black; padding: 5px 10px" class="field-name">Branch Name</td>
+                                    <td style="border: 1px solid black; padding: 5px 10px">IISER Mohali Campus</td>
+                                </tr>
+                                <tr style="border: 1px solid black;">
+                                    <td style="border: 1px solid black; padding: 5px 10px" class="field-name">UPI ID</td>
+                                    <td style="border: 1px solid black; padding: 5px 10px">120880646002303@cnrb</td>
+                                </tr>
+                                <tr style="border: 1px solid black;">
+                                    <td style="border: 1px solid black; padding: 5px 10px" class="field-name">Branch Address</td>
+                                    <td style="border: 1px solid black; padding: 5px 10px">IISER Mohali Campus, Sector - 81, SAS Nagar, Mohali-140306, Punjab, India</td>
+                                </tr>
+                                <tr style="border: 1px solid black;">
+                                    <td style="border: 1px solid black; padding: 5px 10px" class="field-name">Email</td>
+                                    <td style="border: 1px solid black; padding: 5px 10px">cb4790@canarabank.com</td>
+                                </tr>
+                                <tr style="border: 1px solid black;">
+                                    <td style="border: 1px solid black; padding: 5px 10px" class="field-name">Telephone</td>
+                                    <td style="border: 1px solid black; padding: 5px 10px">0172-2240790</td>
+                                </tr>
+                            </table>
+
+                            <div class="text" style="margin-top: 10px">The UPI scanner for the conference account is as follows:</div>
+                        </div>
                     </div>
                 </div>
+                <div class="content-column col-lg-6 col-md-6 col-sm-12">
+                    <div class="inner-column">
+                        <div class="sec-title" style="text-align: justify">
+                            <h2>Abstract Submission</h2>
+                            <span class="divider"></span>
+                            <div class="text">Instructions and a template for preparing the abstract is provided below. Please prepare your abstract accordingly and upload it during registration.</div>
+
+                            <h3 style="margin-top: 20px">Title</h3>
+                            <div class="text" style="margin-top: 10px; padding-left: 20px"><strong>Font:</strong> Times New Roman 11 bold.</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>Limit:</strong> 200 characters including space. (Please do not exceed the maximum length).</div>
+
+                            <h3 style="margin-top: 20px">Authors</h3>
+                            <div class="text" style="margin-top: 10px; padding-left: 20px">Provide Full list of authors, separated by coma (use superscript numbers at the end of surname to map affiliation) Example: Sushmit Ghosh<sup>1</sup></div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>Font:</strong> Times New Roman 11.</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px">The name of the presenting author should be in <strong>Bold</strong>.</div>
+
+                            <h3 style="margin-top: 20px">Affiliation</h3>
+                            <div class="text" style="margin-top: 10px; padding-left: 20px"><strong>Font:</strong> Times New Roman 11</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px">Use superscript numbers at the beginning of an affiliation to map authors. Example: <sup>1</sup> IISER Mohali</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px">If there are more than one university/institute the names should be separated by semi-colon.</div>
+
+                            <h3 style="margin-top: 20px">Main Text</h3>
+                            <div class="text" style="margin-top: 10px; padding-left: 20px"><strong>Font:</strong> Times New Roman 11</div>
+                            <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>Limit:</strong> 2000 characters including space. (Please do not exceed the maximum length).</div>
+
+                            <h3 style="margin-top: 20px; display: flex; justify-content: center">
+                                <a href="{{asset('assets/front/images/sponsorship/template_abstract.docx')}}"> Download template </a>
+                            </h3>
+
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
+
+        </div>
         </div>
     </section>
+
 
 @endsection
