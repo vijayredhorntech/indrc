@@ -1,6 +1,6 @@
 @extends('frontend.layouts.layout')
 @section('content')
-    <section class="page-title" style="background-image: url({{asset('assets/front/images/main-slider/aboutiiserBanner.png')}}); background-repeat: no-repeat; background-position: center; background-size: cover">
+    <section class="page-title" style="background-image: url({{asset('assets/front/images/main-slider/howToReach.png')}}); background-repeat: no-repeat; background-position: center; background-size: cover">
         <div class="anim-icons full-width">
             <span class="icon icon-bull-eye"></span>
             <span class="icon icon-dotted-circle"></span>

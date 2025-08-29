@@ -1,20 +1,18 @@
 @extends('frontend.layouts.layout')
 @section('content')
-    <section class="page-title" style="background-image: url({{asset('assets/front/images/main-slider/localAttraction.png')}}); background-repeat: no-repeat; background-position: center; background-size: cover">
-        <div class="anim-icons full-width">
-            <span class="icon icon-bull-eye"></span>
-            <span class="icon icon-dotted-circle"></span>
-        </div>
-        <div class="auto-container">
-            <div class="title-outer">
-{{--                <h1>Local Attractions</h1>--}}
-{{--                <ul class="page-breadcrumb">--}}
-{{--                    <li><a href="{{route('index')}}">Home</a></li>--}}
-{{--                    <li>Local Attractions</li>--}}
-{{--                </ul>--}}
-            </div>
-        </div>
-    </section>
+    <div class="swiffy-slider slider-nav-autoplay slider-nav-animation slider-nav-animation-fadein">
+        <ul class="slider-container" style="width: 100%">
+            <li style="display: flex; justify-content: center; background-color: black; height: max-content"><img src="{{asset('assets/front/images/localAttractions/1.png')}}" class="MainBannerImages"></li>
+            <li style="display: flex; justify-content: center; background-color: black; height: max-content"><img src="{{asset('assets/front/images/localAttractions/2.png')}}" class="MainBannerImages"></li>
+            <li style="display: flex; justify-content: center; background-color: black; height: max-content"><img src="{{asset('assets/front/images/localAttractions/3.png')}}" class="MainBannerImages"></li>
+        </ul>
+
+                <button type="button" class="slider-nav"></button>
+                <button type="button" class="slider-nav slider-nav-next"></button>
+    </div>
+
+
+
     <section class="about-section-two" style="padding-bottom: 0px; padding-top: 50px">
         <div class="auto-container">
             <div class="row">
