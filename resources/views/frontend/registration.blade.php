@@ -69,24 +69,6 @@
                                 <a href="">Click here</a> for registration
                                 <span style="font-size: 25px; color: blue; animation: pulse 1.5s infinite;">(Coming soon)</span>
                             </h3>
-
-
-                            <span class="divider"></span>
-
-                            <h3 style="margin-top: 20px">Accommodation</h3>
-                            <div class="text" style="margin-top: 10px; padding-left: 20px"><strong>• Faculty/Scientists:</strong> Will be accommodated at the IISER Mohali Guest House (Visitor Hostel).</div>
-                            <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>• Students/Postdocs:</strong> Will be accommodated in the IISER Mohali hostels.</div>
-                            <span class="divider"></span>
-
-                            <h3 style="margin-top: 20px">Accommodation Charges</h3>
-                            <div class="text" style="margin-top: 10px">Please indicate your need for accommodation and the number of nights required during registration. Payment for accommodation must be made along with the registration fee.</div>
-                            <div class="text" style="margin-top: 10px; padding-left: 20px"><strong>• Students/Postdocs:</strong> Rs. 500 per night (GST included)</div>
-                            <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>• Faculty/Scientists:</strong> Rs. 900 per night (GST included)</div>
-                            <span class="divider"></span>
-
-                            <h3 style="margin-top: 20px">Information for Accompanying Persons</h3>
-                            <div class="text" style="margin-top: 10px">Accompanying persons (family members or friends) must register if they wish to attend social events, meals, and the conference dinner. For details on registration and accommodation charges for accompanying persons, please email the organizers at <strong>indrciiserm2025@gmail.com</strong> with the subject line: “Query about accompanying person.”</div>
-                            <span class="divider"></span>
                         </div>
                     </div>
                 </div>
@@ -182,7 +164,10 @@
                         <td style="border: 1px solid black; padding: 5px 10px">0172-2240790</td>
                     </tr>
                 </table>
-                <span class="divider"></span>
+
+                            <div class="text" style="margin-top: 10px">"Payment can also be done using QR code. It will be available during payment, while doing registration"</div>
+
+                            <span class="divider"></span>
 
                 <h3 style="margin-top: 20px">Child Care Facility</h3>
                 <div class="text" style="margin-top: 10px; margin-bottom: 30px">IISER Mohali has a creche/day care facility in the Community Center Complex for children aged 1.5 years and above. The creche is open Monday to Saturday, from 9:00 am to 6:00 pm. To avail of this facility for your child, please email the organizers at <strong>indrciiserm2025@gmail.com</strong> with the subject line: “Query about day care facility.”</div>
