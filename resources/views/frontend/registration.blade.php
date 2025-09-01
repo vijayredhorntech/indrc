@@ -66,8 +66,8 @@
                             <div class="text" style="margin-top: 5px; padding-left: 20px"><strong>• Non-IISER Mohali Faculty/Scientists:</strong> Rs. 8850 (GST included)</div>
                             <span class="divider"></span>
                             <h3 style="margin-top: 20px; background-color: #ff9300; padding: 15px 5px; color: white">
-                                <a href="">Click here</a> for registration
-                                <span style="font-size: 25px; color: blue; animation: pulse 1.5s infinite;">(Coming soon)</span>
+                                <a href="https://forms.gle/eMcHELqEAE7mSH3D7" target="_blank">Click here</a> for registration
+{{--                                <span style="font-size: 25px; color: blue; animation: pulse 1.5s infinite;">(Coming soon)</span>--}}
                             </h3>
                         </div>
                     </div>
