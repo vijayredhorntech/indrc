@@ -39,7 +39,7 @@
                 <div class="content-column col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title" style="text-align: justify">
-                            <h2>Registration and Accommodation</h2>
+                            <h2>Registration</h2>
                             <span class="divider"></span>
 
 
