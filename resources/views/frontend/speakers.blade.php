@@ -395,6 +395,19 @@
                     </div>
                 </div>
 
+                <div class="speaker-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="2100ms" style="visibility: visible; animation-delay: 2100ms; animation-name: fadeInUp;">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/AntaraDas.png')}}" alt=""></a></figure>
+                        </div>
+                        <div class="info-box">
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Antara Das</a></h4>
+                            <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Ion Channels, Circadian rhythms and sleep, Epilepsy</p>
+                            <p class="designation" style="text-align: center">Azim Premji University</p>
+                        </div>
+                    </div>
+                </div>
+
 
             </div>
         </div>
