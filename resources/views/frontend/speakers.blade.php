@@ -200,7 +200,7 @@
                             <figure class="image"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/Speakers/adrian.png')}}" alt=""></a></figure>
                         </div>
                         <div class="info-box">
-                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Adrian Moore</a></h4>
+                            <h4 class="name" style="text-align: center"><a href="javascript:void(0)">Dr. Adrian W. Moore</a></h4>
                             <p class="designation" style="text-align: center; line-height: 20px; margin-top: 10px">Neurodiversity</p>
                             <p class="designation" style="text-align: center">Riken Center for Brain Science</p>
                         </div>
