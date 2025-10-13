@@ -44,7 +44,7 @@
 
 
                             <h3 style="margin-top: 20px">Registration Dates</h3>
-                            <div class="text" style="margin-top: 10px">September 01, 2025 to October 10, 2025</div>
+                            <div class="text" style="margin-top: 10px">September 01, 2025 to October 25, 2025</div>
                             <span class="divider"></span>
 
 
