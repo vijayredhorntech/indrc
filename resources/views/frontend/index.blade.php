@@ -323,7 +323,7 @@
                         </div>
 
                         <div class="lower-content">
-                            <h4><a href="#">Registration starts from 01 September 2025. </a></h4>
+                            <h4><a href="{{route('registration')}}">Registration deadline has been extended till 25th October</a></h4>
 
 {{--                            <div class="text">Single stroke at the present moment and yet I feel that lorem quis bibendum auctor.</div>--}}
 
