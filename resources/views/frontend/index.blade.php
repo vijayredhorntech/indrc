@@ -389,9 +389,10 @@
                             <!-- Client Block -->
 
                             <div class="client-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
-
-                                <figure class="image-box"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/clients/iiser.png')}}" alt=""></a></figure>
-
+                                <figure class="image-box" style="padding: 10px"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/clients/iiser.png')}}" alt=""></a></figure>
+                            </div>
+                            <div class="client-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+                                <figure class="image-box" style="padding: 10px"><a href="javascript:void(0)"><img src="{{asset('assets/front/images/clients/csir.png')}}"  alt=""></a></figure>
                             </div>
 
 
