@@ -75,7 +75,7 @@
                                         <h4>11 -13 December 2025</h4>
 {{--                                        <span class="time">08:00 am - 10:00 am</span>--}}
                                     </div>
-                                    <h3><a href="{{asset('assets/pdf/programe/Abstract Book InDRC2025 Final.pdf')}}" target="_blank">7th Indian Drosophila Research COnference</a></h3>
+                                    <h3><a href="{{asset('assets/pdf/programe/Abstract Book InDRC2025 Final.pdf')}}" target="_blank">7th Indian Drosophila Research Conference</a></h3>
                                     <div class="btn-box">
                                         <a href="{{asset('assets/pdf/programe/Scientific Program InDRC2025.pdf')}}" target="_blank" class="theme-btn btn-style-one"><span class="btn-title">View Details</span></a>
                                     </div>
